@@ -1,922 +1,276 @@
 [
     {
-        "title": "Copa de la Liga: CDU San Martín vs Sport Boys Association",
-        "fecha": "2026-06-12",
+        "title": "Formula 1: GP de Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "options": [
+            {"nombre": "DISNEY1", "link": "https://streamtpday1.xyz/global2.php?stream=disney1"},
+            {"nombre": "DISNEY2", "link": "https://streamtpday1.xyz/global2.php?stream=disney2"},
+            {"nombre": "DISNEY3", "link": "https://streamtpday1.xyz/global2.php?stream=disney3"},
+            {"nombre": "DISNEY4", "link": "https://streamtpday1.xyz/global2.php?stream=disney4"},
+            {"nombre": "DISNEY5", "link": "https://streamtpday1.xyz/global2.php?stream=disney5"},
+            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1"},
+            {"nombre": "Disney+ (Cámara On Board)", "link": "https://stream-xhd.com/live1.php?stream=disney4"},
+            {"nombre": "Disney+ (On Board Colapinto)", "link": "https://stream-xhd.com/live1.php?stream=disney3"},
+            {"nombre": "Disney+ (On Board Piastri)", "link": "https://stream-xhd.com/live1.php?stream=disney5"},
+            {"nombre": "Disney+ (Race Hub)", "link": "https://stream-xhd.com/live1.php?stream=disney2"},
+            {"nombre": "F1", "link": "https://stream-xhd.com/live1.php?stream=daznf1"},
+            {"nombre": "FOX1AR", "link": "https://streamtpday1.xyz/global2.php?stream=fox1ar"},
+            {"nombre": "Fox Sports 1 AR", "link": "https://stream-xhd.com/live1.php?stream=fox1ar"},
+            {"nombre": "Sky Sports F1", "link": "https://stream-xhd.com/live1.php?stream=sky_f1"},
+            {"nombre": "Sportv 3 BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr3"}
+        ]
+    },
+    {
+        "title": "Copa de la Liga: Ayacucho vs Los Chankas",
+        "fecha": "2026-06-14",
         "time": "11:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
-        "nombre": "Bicolor+"
+        "options": [
+            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Coquimbo Unido vs O'Higgins",
-        "fecha": "2026-06-12",
+        "title": "Primera División de Chile: Deportes Concepción vs Deportes Limache",
+        "fecha": "2026-06-14",
         "time": "11:30",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
-        "nombre": "TNT Sports CL"
+        "options": [
+            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
+            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Coquimbo Unido vs O'Higgins",
-        "fecha": "2026-06-12",
-        "time": "11:30",
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=max1",
-        "nombre": "Max 1"
+        "options": [
+            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
+            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
+            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"},
+            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
+            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
+            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
+            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
+            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
+            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
+            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
+            {"nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es"},
+            {"nombre": "La 1 ES | Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es"},
+            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
+            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
+            {"nombre": "TV LA 1 ES", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html"},
+            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
+            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
+            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
+            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
+            {"nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix"},
+            {"nombre": "WINSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=winsports"}
+        ]
     },
     {
-        "title": "Copa de la Liga: Carlos A. Mannucci vs Alianza Atlético",
-        "fecha": "2026-06-12",
+        "title": "Copa de la Liga: Alianza Universidad vs Sport Huancayo",
+        "fecha": "2026-06-14",
         "time": "13:15",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
-        "nombre": "Bicolor+"
+        "options": [
+            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
+        ]
     },
     {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
+        "title": "LaLiga Hypermotion: Málaga vs UD Almería | Playoffs Final",
+        "fecha": "2026-06-14",
         "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=dsports1",
-        "nombre": "Dsports | Recomendado"
+        "options": [
+            {"nombre": "HYPERMOTION1", "link": "https://streamtpday1.xyz/global2.php?stream=hypermotion1"},
+            {"nombre": "LaLiga TV Hypermotion", "link": "https://stream-xhd.com/live1.php?stream=laligahypermotion"}
+        ]
     },
     {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
+        "title": "Primera División de Chile: Unión La Calera vs Universidad de Chile",
+        "fecha": "2026-06-14",
         "time": "14:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=telemundo",
-        "nombre": "Telemundo | Recomendado"
+        "options": [
+            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
+            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
+        ]
     },
     {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=dsports",
-        "nombre": "Dsports"
+        "options": [
+            {"nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv"},
+            {"nombre": "Azteca 7", "link": "https://stream-xhd.com/live1.php?stream=azteca7"},
+            {"nombre": "CARACOLTV", "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv"},
+            {"nombre": "Canal 5 MX", "link": "https://stream-xhd.com/live1.php?stream=canal5mx"},
+            {"nombre": "Canal 5 MX | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal5mx"},
+            {"nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6"},
+            {"nombre": "Caracol TV FHD", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php"},
+            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
+            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
+            {"nombre": "DISNEY2", "link": "https://streamtpday1.xyz/global2.php?stream=disney2"},
+            {"nombre": "DSPORTS2", "link": "https://streamtpday1.xyz/global2.php?stream=dsports2"},
+            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney6"},
+            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
+            {"nombre": "Dsports 2 FHD", "link": "https://sudamericaplay2.com/canal_8112/dsports2.html"},
+            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
+            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
+            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
+            {"nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html"},
+            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
+            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
+            {"nombre": "TUDN", "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html"},
+            {"nombre": "TUDNMX", "link": "https://streamtpday1.xyz/global2.php?stream=tudnmx"},
+            {"nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports"},
+            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
+            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
+            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
+            {"nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe"},
+            {"nombre": "Telefe (AR)", "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php"},
+            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
+            {"nombre": "ZDF", "link": "https://sudamericaplay2.com/canal_8112/zdf.html"},
+            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"}
+        ]
     },
     {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix1",
-        "nombre": "Vix 1"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=genpy",
-        "nombre": "Gen PY"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
-        "nombre": "Trece PY"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=winplus",
-        "nombre": "Win Sports +"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
-        "nombre": "Chilevision"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento10",
-        "nombre": "CazéTV BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
-        "nombre": "Telemundo USA"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Qatar vs Suiza",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
-        "nombre": "Peacock USA"
-    },
-    {
-        "title": "Primera División de Chile: Everton vs Palestino",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
-        "nombre": "TNT Sports CL"
-    },
-    {
-        "title": "Primera División de Chile: Everton vs Palestino",
-        "fecha": "2026-06-12",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=max2",
-        "nombre": "Max 2"
-    },
-    {
-        "title": "Copa de la Liga: Comerciantes Unidos vs Sporting Cristal",
-        "fecha": "2026-06-12",
+        "title": "Copa de la Liga: U. César Vallejo vs Alianza Lima",
+        "fecha": "2026-06-14",
         "time": "15:30",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
-        "nombre": "Bicolor+"
+        "options": [
+            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Colo-Colo vs Cobresal",
-        "fecha": "2026-06-12",
+        "title": "ESPN Knockout: Jonathan González vs Abraham Pérez",
+        "fecha": "2026-06-14",
+        "time": "16:00",
+        "category": "Boxeo",
+        "options": [
+            {"nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2"}
+        ]
+    },
+    {
+        "title": "Primera División de Chile: Universidad Católica vs Univ. Concepción",
+        "fecha": "2026-06-14",
         "time": "16:30",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
-        "nombre": "TNT Sports CL"
+        "options": [
+            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
+            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Colo-Colo vs Cobresal",
-        "fecha": "2026-06-12",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=max3",
-        "nombre": "Max 3"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
+        "title": "UFC: Ilia Topuria vs Justin Gaethje (Preliminares)",
+        "fecha": "2026-06-14",
         "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=dsports1",
-        "nombre": "Dsports | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=telemundo",
-        "nombre": "Telemundo | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=dsports",
-        "nombre": "Dsports"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=disney9",
-        "nombre": "Disney+"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix2",
-        "nombre": "Vix 2"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telefe",
-        "nombre": "Telefe"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=canal5mx",
-        "nombre": "Canal 5 MX"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=americatv",
-        "nombre": "America TV"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=azteca7",
-        "nombre": "Azteca 7"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=la1es",
-        "nombre": "La 1 ES"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
-        "nombre": "Chilevision"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=genpy",
-        "nombre": "Gen PY"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
-        "nombre": "Trece PY"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-        "nombre": "Sportv BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento10",
-        "nombre": "CazéTV BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
-        "nombre": "Telemundo USA"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Brasil vs Marruecos",
-        "fecha": "2026-06-12",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
-        "nombre": "Peacock USA"
-    },
-    {
-        "title": "ESPN Knockout: Antonio Vargas vs Jesse Rodriguez",
-        "fecha": "2026-06-12",
-        "time": "18:00",
         "category": "UFC/MMA",
-        "link": "https://stream-xhd.com/live1.php?stream=espn2",
-        "nombre": "ESPN 2"
+        "options": [
+            {"nombre": "PARAMOUNT1", "link": "https://streamtpday1.xyz/global2.php?stream=paramount1"},
+            {"nombre": "Paramount+", (Canal 1)", "link": "https://sudamericaplay2.com/ufc/canal1.html"},
+            {"nombre": "Paramount+", (Canal 2)", "link": "https://sudamericaplay2.com/ufc/canal2.html"},
+            {"nombre": "Paramount+", (Canal 3)", "link": "https://sudamericaplay2.com/ufc/canal3.html"}
+        ]
     },
     {
-        "title": "Copa de la Liga: Binacional vs Cienciano",
-        "fecha": "2026-06-12",
-        "time": "18:30",
+        "title": "Copa de la Liga: Deportivo Garcilaso vs Cusco FC",
+        "fecha": "2026-06-14",
+        "time": "18:00",
         "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
-        "nombre": "Bicolor+"
+        "options": [
+            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Ñublense vs Huachipato",
-        "fecha": "2026-06-12",
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "options": [
+            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
+            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
+            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"},
+            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
+            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
+            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
+            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
+            {"nombre": "FOX1US", "link": "https://streamtpday1.xyz/global2.php?stream=fox1us"},
+            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney7"},
+            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
+            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
+            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
+            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
+            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
+            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
+            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
+            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
+            {"nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe"},
+            {"nombre": "Telefe (AR)", "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php"},
+            {"nombre": "Unicanal PY", "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"},
+            {"nombre": "WINSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=winsports"}
+        ]
+    },
+    {
+        "title": "MLB: Boston Red Sox vs Texas Rangers",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Béisbol",
+        "options": [
+            {"nombre": "ESPN 4", "link": "https://stream-xhd.com/live1.php?stream=espn4"}
+        ]
+    },
+    {
+        "title": "NHL: Vegas Golden Knights vs Carolina Hurricanes",
+        "fecha": "2026-06-14",
         "time": "19:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
-        "nombre": "TNT Sports CL"
+        "category": "Hockey",
+        "options": [
+            {"nombre": "ESPN 3", "link": "https://stream-xhd.com/live1.php?stream=espn3"},
+            {"nombre": "ESPN3", "link": "https://streamtpday1.xyz/global2.php?stream=espn3"}
+        ]
     },
     {
-        "title": "Primera División de Chile: Ñublense vs Huachipato",
-        "fecha": "2026-06-12",
+        "title": "UFC: Ilia Topuria vs Justin Gaethje (Cartelera Principal)",
+        "fecha": "2026-06-14",
         "time": "19:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=max4",
-        "nombre": "Max 4"
-    },
-    {
-        "title": "NBA: San Antonio Spurs vs New York Knicks",
-        "fecha": "2026-06-12",
-        "time": "19:30",
-        "category": "Baloncesto",
-        "link": "https://stream-xhd.com/live1.php?stream=nba1",
-        "nombre": "NBA League Pass"
-    },
-    {
-        "title": "NBA: San Antonio Spurs vs New York Knicks",
-        "fecha": "2026-06-12",
-        "time": "19:30",
-        "category": "Baloncesto",
-        "link": "https://stream-xhd.com/live1.php?stream=amazon1",
-        "nombre": "Amazon Prime"
-    },
-    {
-        "title": "NBA: San Antonio Spurs vs New York Knicks",
-        "fecha": "2026-06-12",
-        "time": "19:30",
-        "category": "Baloncesto",
-        "link": "https://stream-xhd.com/live1.php?stream=espndeportes",
-        "nombre": "ESPN Deportes"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=dsports1",
-        "nombre": "Dsports | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=telemundo",
-        "nombre": "Telemundo | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=dsports",
-        "nombre": "Dsports"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix3",
-        "nombre": "Vix 3"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
-        "nombre": "TYC Sports"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento10",
-        "nombre": "CazéTV BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
-        "nombre": "Telemundo USA"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Haití vs Escocia",
-        "fecha": "2026-06-12",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
-        "nombre": "Peacock USA"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=dsports1",
-        "nombre": "Dsports | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/channel2/?id=telemundo",
-        "nombre": "Telemundo | Recomendado"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=dsports",
-        "nombre": "Dsports"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
-        "nombre": "TYC Sports"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=unicanalpy",
-        "nombre": "Unicanal PY"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=vix4",
-        "nombre": "Vix 4"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
-        "nombre": "Sportv BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=evento10",
-        "nombre": "CazéTV BR"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
-        "nombre": "Telemundo USA"
-    },
-    {
-        "title": "Copa Del Mundo 2026: Australia vs Turquía",
-        "fecha": "2026-06-12",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://stream-xhd.com/live1.php?stream=peacock1",
-        "nombre": "Peacock USA"
-    },
-    {
-        "title": "F1: GP de Barcelona - Clasificación",
-        "fecha": "2026-06-13",
-        "time": "09:00",
-        "category": "F1",
-        "link": "https://streamtpday1.xyz/global2.php?stream=disney1",
-        "nombre": "DISNEY1"
-    },
-    {
-        "title": "F1: GP de Barcelona - Clasificación",
-        "fecha": "2026-06-13",
-        "time": "09:00",
-        "category": "F1",
-        "link": "https://streamtpday1.xyz/global2.php?stream=fox1ar",
-        "nombre": "FOX1AR"
-    },
-    {
-        "title": "F1: GP de Barcelona - Clasificación",
-        "fecha": "2026-06-13",
-        "time": "09:00",
-        "category": "F1",
-        "link": "https://streamtpday1.xyz/global2.php?stream=disney2",
-        "nombre": "DISNEY2"
-    },
-    {
-        "title": "F1: GP de Barcelona - Clasificación",
-        "fecha": "2026-06-13",
-        "time": "09:00",
-        "category": "F1",
-        "link": "https://streamtpday1.xyz/global2.php?stream=disney3",
-        "nombre": "DISNEY3"
-    },
-    {
-        "title": "F1: GP de Barcelona - Clasificación",
-        "fecha": "2026-06-13",
-        "time": "09:00",
-        "category": "F1",
-        "link": "https://streamtpday1.xyz/global2.php?stream=disney4",
-        "nombre": "DISNEY4"
-    },
-    {
-        "title": "Coquimbo Unido vs O'Higgins",
-        "fecha": "2026-06-13",
-        "time": "11:30",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=max1",
-        "nombre": "MAX1"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "nombre": "Dsports FHD"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
-        "nombre": "DSPORTS"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_41/45wsprts.php",
-        "nombre": "Win Sports FHD"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=winsports",
-        "nombre": "WINSPORTS"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=foxone",
-        "nombre": "FOXONE"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html",
-        "nombre": "ITV 1"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "nombre": "Telemundo FHD"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
-        "nombre": "TELEMUNDOUSA"
-    },
-    {
-        "title": "Catar vs Suiza",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
-        "nombre": "Caze TV"
-    },
-    {
-        "title": "Everton vs Palestino",
-        "fecha": "2026-06-13",
-        "time": "14:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=max2",
-        "nombre": "MAX2"
-    },
-    {
-        "title": "Colo-Colo vs Cobresal",
-        "fecha": "2026-06-13",
-        "time": "16:30",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=max3",
-        "nombre": "MAX3"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "nombre": "Dsports FHD"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
-        "nombre": "DSPORTS"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=disney1",
-        "nombre": "DISNEY1"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html",
-        "nombre": "Sport TV 1 BR"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
-        "nombre": "TUDN"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=tudnmx",
-        "nombre": "TUDNMX"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "nombre": "Telemundo FHD"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
-        "nombre": "TELEMUNDOUSA"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
-        "nombre": "TV LA 1 ES"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=tvla1es",
-        "nombre": "TVLA1ES"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=foxone",
-        "nombre": "FOXONE"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php",
-        "nombre": "Telefe"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/zdf.html",
-        "nombre": "ZDF"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_41/caracoltv.php",
-        "nombre": "Caracol TV FHD"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
-        "nombre": "CARACOLTV"
-    },
-    {
-        "title": "Brasil vs Marruecos",
-        "fecha": "2026-06-13",
-        "time": "17:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
-        "nombre": "Caze TV"
-    },
-    {
-        "title": "Ñublense vs Huachipato",
-        "fecha": "2026-06-13",
-        "time": "19:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=max4",
-        "nombre": "MAX4"
-    },
-    {
-        "title": "Knicks vs Spurs",
-        "fecha": "2026-06-13",
-        "time": "19:30",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=espndeportes",
-        "nombre": "ESPNDEPORTES"
-    },
-    {
-        "title": "Knicks vs Spurs",
-        "fecha": "2026-06-13",
-        "time": "19:30",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global1.php?stream=abcusa",
-        "nombre": "ABCUSA"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "nombre": "Dsports FHD"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
-        "nombre": "DSPORTS"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
-        "nombre": "TyC Sports"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=tycsports",
-        "nombre": "TYCSPORTS"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "nombre": "Telemundo FHD"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
-        "nombre": "TELEMUNDOUSA"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
-        "nombre": "Caze TV"
-    },
-    {
-        "title": "Haití vs Escocia",
-        "fecha": "2026-06-13",
-        "time": "20:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=foxone",
-        "nombre": "FOXONE"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "nombre": "Dsports FHD"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
-        "nombre": "DSPORTS"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
-        "nombre": "TyC Sports"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=tycsports",
-        "nombre": "TYCSPORTS"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
-        "nombre": "TELEMUNDOUSA"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
-        "nombre": "Telemundo FHD"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://streamtpday1.xyz/global2.php?stream=foxone",
-        "nombre": "FOXONE"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html",
-        "nombre": "ITV 1"
-    },
-    {
-        "title": "Australia vs Turquia",
-        "fecha": "2026-06-13",
-        "time": "23:00",
-        "category": "Fútbol",
-        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
-        "nombre": "Caze TV"
+        "category": "UFC/MMA",
+        "options": [
+            {"nombre": "Paramount+ | Español", "link": "https://stream-xhd.com/live1.php?stream=paramount2"},
+            {"nombre": "Paramount+ | Inglés", "link": "https://stream-xhd.com/live1.php?stream=paramount3"},
+            {"nombre": "Paramount+ | Portugués", "link": "https://stream-xhd.com/live1.php?stream=paramount4"}
+        ]
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "options": [
+            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
+            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
+            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
+            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
+            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
+            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
+            {"nombre": "FOX1US", "link": "https://streamtpday1.xyz/global2.php?stream=fox1us"},
+            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
+            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
+            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
+            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
+            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
+            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
+            {"nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports"},
+            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
+            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
+            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
+            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
+            {"nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html"}
+        ]
     }
 ]
