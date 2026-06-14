@@ -1,276 +1,1042 @@
 [
     {
-        "title": "Formula 1: GP de Barcelona - Carrera",
+        "title": "F1 | GP de Barcelona: Carrera",
         "fecha": "2026-06-14",
         "time": "08:00",
         "category": "F1",
-        "options": [
-            {"nombre": "DISNEY1", "link": "https://streamtpday1.xyz/global2.php?stream=disney1"},
-            {"nombre": "DISNEY2", "link": "https://streamtpday1.xyz/global2.php?stream=disney2"},
-            {"nombre": "DISNEY3", "link": "https://streamtpday1.xyz/global2.php?stream=disney3"},
-            {"nombre": "DISNEY4", "link": "https://streamtpday1.xyz/global2.php?stream=disney4"},
-            {"nombre": "DISNEY5", "link": "https://streamtpday1.xyz/global2.php?stream=disney5"},
-            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1"},
-            {"nombre": "Disney+ (Cámara On Board)", "link": "https://stream-xhd.com/live1.php?stream=disney4"},
-            {"nombre": "Disney+ (On Board Colapinto)", "link": "https://stream-xhd.com/live1.php?stream=disney3"},
-            {"nombre": "Disney+ (On Board Piastri)", "link": "https://stream-xhd.com/live1.php?stream=disney5"},
-            {"nombre": "Disney+ (Race Hub)", "link": "https://stream-xhd.com/live1.php?stream=disney2"},
-            {"nombre": "F1", "link": "https://stream-xhd.com/live1.php?stream=daznf1"},
-            {"nombre": "FOX1AR", "link": "https://streamtpday1.xyz/global2.php?stream=fox1ar"},
-            {"nombre": "Fox Sports 1 AR", "link": "https://stream-xhd.com/live1.php?stream=fox1ar"},
-            {"nombre": "Sky Sports F1", "link": "https://stream-xhd.com/live1.php?stream=sky_f1"},
-            {"nombre": "Sportv 3 BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr3"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney1",
+        "nombre": "DISNEY1"
+    },
+    {
+        "title": "F1 | GP de Barcelona: Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney2",
+        "nombre": "DISNEY2"
+    },
+    {
+        "title": "F1 | GP de Barcelona: Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney3",
+        "nombre": "DISNEY3"
+    },
+    {
+        "title": "F1 | GP de Barcelona: Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney4",
+        "nombre": "DISNEY4"
+    },
+    {
+        "title": "F1 | GP de Barcelona: Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney5",
+        "nombre": "DISNEY5"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera | Cámara On Board",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=disney4",
+        "nombre": "Disney+ (On Board)"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera | On Board Colapinto",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=disney3",
+        "nombre": "Disney+ (On Board Colapinto)"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera | On Board Piastri",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=disney5",
+        "nombre": "Disney+ (On Board Piastri)"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Race Hub",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=disney2",
+        "nombre": "Disney+ (Race Hub)"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=daznf1",
+        "nombre": "F1"
+    },
+    {
+        "title": "F1 | GP de Barcelona: Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=fox1ar",
+        "nombre": "FOX1AR"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=fox1ar",
+        "nombre": "Fox Sports 1 AR"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=sky_f1",
+        "nombre": "Sky Sports F1"
+    },
+    {
+        "title": "Formula 1: GP Barcelona - Carrera",
+        "fecha": "2026-06-14",
+        "time": "08:00",
+        "category": "F1",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr3",
+        "nombre": "Sportv 3 BR"
     },
     {
         "title": "Copa de la Liga: Ayacucho vs Los Chankas",
         "fecha": "2026-06-14",
         "time": "11:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
+        "nombre": "Bicolor+"
     },
     {
         "title": "Primera División de Chile: Deportes Concepción vs Deportes Limache",
         "fecha": "2026-06-14",
         "time": "11:30",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
-            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=max1",
+        "nombre": "MAX1"
+    },
+    {
+        "title": "Primera División de Chile: Deportes Concepción vs Deportes Limache",
+        "fecha": "2026-06-14",
+        "time": "11:30",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
+        "nombre": "TNT Sports CL"
     },
     {
         "title": "Copa Del Mundo 2026: Alemania vs Curazao",
         "fecha": "2026-06-14",
         "time": "12:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
-            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
-            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"},
-            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
-            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
-            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
-            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
-            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
-            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
-            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
-            {"nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es"},
-            {"nombre": "La 1 ES | Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es"},
-            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
-            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
-            {"nombre": "TV LA 1 ES", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html"},
-            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
-            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
-            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
-            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
-            {"nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix"},
-            {"nombre": "WINSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=winsports"}
-        ]
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
+        "nombre": "Chilevision"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html",
+        "nombre": "Fussball"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html",
+        "nombre": "ITV 1"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=la1es",
+        "nombre": "La 1 ES"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel/?id=la1es",
+        "nombre": "La 1 ES | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
+        "nombre": "TV LA 1 ES"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recommended"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix",
+        "nombre": "Vix + Mundial"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Curazao",
+        "fecha": "2026-06-14",
+        "time": "12:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=winsports",
+        "nombre": "WINSPORTS"
     },
     {
         "title": "Copa de la Liga: Alianza Universidad vs Sport Huancayo",
         "fecha": "2026-06-14",
         "time": "13:15",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
+        "nombre": "Bicolor+"
     },
     {
         "title": "LaLiga Hypermotion: Málaga vs UD Almería | Playoffs Final",
         "fecha": "2026-06-14",
         "time": "14:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "HYPERMOTION1", "link": "https://streamtpday1.xyz/global2.php?stream=hypermotion1"},
-            {"nombre": "LaLiga TV Hypermotion", "link": "https://stream-xhd.com/live1.php?stream=laligahypermotion"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=hypermotion1",
+        "nombre": "HYPERMOTION1"
+    },
+    {
+        "title": "LaLiga Hypermotion: Málaga vs UD Almería | Playoffs Final",
+        "fecha": "2026-06-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=laligahypermotion",
+        "nombre": "LaLiga TV Hypermotion"
     },
     {
         "title": "Primera División de Chile: Unión La Calera vs Universidad de Chile",
         "fecha": "2026-06-14",
         "time": "14:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
-            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=max1",
+        "nombre": "MAX1"
+    },
+    {
+        "title": "Primera División de Chile: Unión La Calera vs Universidad de Chile",
+        "fecha": "2026-06-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
+        "nombre": "TNT Sports CL"
     },
     {
         "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
         "fecha": "2026-06-14",
         "time": "15:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv"},
-            {"nombre": "Azteca 7", "link": "https://stream-xhd.com/live1.php?stream=azteca7"},
-            {"nombre": "CARACOLTV", "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv"},
-            {"nombre": "Canal 5 MX", "link": "https://stream-xhd.com/live1.php?stream=canal5mx"},
-            {"nombre": "Canal 5 MX | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal5mx"},
-            {"nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6"},
-            {"nombre": "Caracol TV FHD", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php"},
-            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
-            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
-            {"nombre": "DISNEY2", "link": "https://streamtpday1.xyz/global2.php?stream=disney2"},
-            {"nombre": "DSPORTS2", "link": "https://streamtpday1.xyz/global2.php?stream=dsports2"},
-            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney6"},
-            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
-            {"nombre": "Dsports 2 FHD", "link": "https://sudamericaplay2.com/canal_8112/dsports2.html"},
-            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
-            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
-            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
-            {"nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html"},
-            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
-            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
-            {"nombre": "TUDN", "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html"},
-            {"nombre": "TUDNMX", "link": "https://streamtpday1.xyz/global2.php?stream=tudnmx"},
-            {"nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports"},
-            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
-            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
-            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
-            {"nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe"},
-            {"nombre": "Telefe (AR)", "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php"},
-            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
-            {"nombre": "ZDF", "link": "https://sudamericaplay2.com/canal_8112/zdf.html"},
-            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=americatv",
+        "nombre": "America TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=azteca7",
+        "nombre": "Azteca 7"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv",
+        "nombre": "CARACOLTV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=canal5mx",
+        "nombre": "Canal 5 MX"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=canal5mx",
+        "nombre": "Canal 5 MX | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento6",
+        "nombre": "Caracol TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "nombre": "Caracol TV FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney2",
+        "nombre": "DISNEY2"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports2",
+        "nombre": "DSPORTS2"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney6",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/dsports2.html",
+        "nombre": "Dsports 2 FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html",
+        "nombre": "Sport TV 1 BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "Sportv BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
+        "nombre": "TUDN"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=tudnmx",
+        "nombre": "TUDNMX"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php",
+        "nombre": "Telefe (AR)"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/zdf.html",
+        "nombre": "ZDF"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Países Bajos vs Japón",
+        "fecha": "2026-06-14",
+        "time": "15:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
+        "nombre": "Chilevision"
     },
     {
         "title": "Copa de la Liga: U. César Vallejo vs Alianza Lima",
         "fecha": "2026-06-14",
         "time": "15:30",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
+        "nombre": "Bicolor+"
     },
     {
         "title": "ESPN Knockout: Jonathan González vs Abraham Pérez",
         "fecha": "2026-06-14",
         "time": "16:00",
         "category": "Boxeo",
-        "options": [
-            {"nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "nombre": "ESPN 2"
     },
     {
         "title": "Primera División de Chile: Universidad Católica vs Univ. Concepción",
         "fecha": "2026-06-14",
         "time": "16:30",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "MAX1", "link": "https://streamtpday1.xyz/global2.php?stream=max1"},
-            {"nombre": "TNT Sports CL", "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=max1",
+        "nombre": "MAX1"
     },
     {
-        "title": "UFC: Ilia Topuria vs Justin Gaethje (Preliminares)",
+        "title": "Primera División de Chile: Universidad Católica vs Univ. Concepción",
+        "fecha": "2026-06-14",
+        "time": "16:30",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tntsportschile",
+        "nombre": "TNT Sports CL"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
         "fecha": "2026-06-14",
         "time": "17:00",
         "category": "UFC/MMA",
-        "options": [
-            {"nombre": "PARAMOUNT1", "link": "https://streamtpday1.xyz/global2.php?stream=paramount1"},
-            {"nombre": "Paramount+", (Canal 1)", "link": "https://sudamericaplay2.com/ufc/canal1.html"},
-            {"nombre": "Paramount+", (Canal 2)", "link": "https://sudamericaplay2.com/ufc/canal2.html"},
-            {"nombre": "Paramount+", (Canal 3)", "link": "https://sudamericaplay2.com/ufc/canal3.html"}
-        ]
+        "link": "https://streamtpday1.xyz/global2.php?stream=paramount1",
+        "nombre": "PARAMOUNT1"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
+        "fecha": "2026-06-14",
+        "time": "17:00",
+        "category": "UFC/MMA",
+        "link": "https://sudamericaplay2.com/ufc/canal1.html",
+        "nombre": "Paramount+ (Canal 1)"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
+        "fecha": "2026-06-14",
+        "time": "17:00",
+        "category": "UFC/MMA",
+        "link": "https://sudamericaplay2.com/ufc/canal2.html",
+        "nombre": "Paramount+ (Canal 2)"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
+        "fecha": "2026-06-14",
+        "time": "17:00",
+        "category": "UFC/MMA",
+        "link": "https://sudamericaplay2.com/ufc/canal3.html",
+        "nombre": "Paramount+ (Canal 3)"
     },
     {
         "title": "Copa de la Liga: Deportivo Garcilaso vs Cusco FC",
         "fecha": "2026-06-14",
         "time": "18:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=bicolor",
+        "nombre": "Bicolor+"
     },
     {
         "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
         "fecha": "2026-06-14",
         "time": "18:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
-            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
-            {"nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision"},
-            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
-            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
-            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
-            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
-            {"nombre": "FOX1US", "link": "https://streamtpday1.xyz/global2.php?stream=fox1us"},
-            {"nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney7"},
-            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
-            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
-            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
-            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
-            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
-            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
-            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
-            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
-            {"nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe"},
-            {"nombre": "Telefe (AR)", "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php"},
-            {"nombre": "Unicanal PY", "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"},
-            {"nombre": "WINSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=winsports"}
-        ]
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney7",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=fox1us",
+        "nombre": "FOX1US"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html",
+        "nombre": "Fussball"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html",
+        "nombre": "ITV 1"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "Sportv BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_41/solo_en_argentina_telefe.php",
+        "nombre": "Telefe (AR)"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=unicanalpy",
+        "nombre": "Unicanal PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=winsports",
+        "nombre": "WINSPORTS"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Costa de Marfil vs Ecuador",
+        "fecha": "2026-06-14",
+        "time": "18:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
+        "nombre": "Chilevision"
     },
     {
         "title": "MLB: Boston Red Sox vs Texas Rangers",
         "fecha": "2026-06-14",
         "time": "18:00",
         "category": "Béisbol",
-        "options": [
-            {"nombre": "ESPN 4", "link": "https://stream-xhd.com/live1.php?stream=espn4"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=espn4",
+        "nombre": "ESPN 4"
     },
     {
         "title": "NHL: Vegas Golden Knights vs Carolina Hurricanes",
         "fecha": "2026-06-14",
         "time": "19:00",
         "category": "Hockey",
-        "options": [
-            {"nombre": "ESPN 3", "link": "https://stream-xhd.com/live1.php?stream=espn3"},
-            {"nombre": "ESPN3", "link": "https://streamtpday1.xyz/global2.php?stream=espn3"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=espn3",
+        "nombre": "ESPN 3"
     },
     {
-        "title": "UFC: Ilia Topuria vs Justin Gaethje (Cartelera Principal)",
+        "title": "NHL: Vegas Golden Knights vs Carolina Hurricanes",
+        "fecha": "2026-06-14",
+        "time": "19:00",
+        "category": "Hockey",
+        "link": "https://streamtpday1.xyz/global2.php?stream=espn3",
+        "nombre": "ESPN3"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
         "fecha": "2026-06-14",
         "time": "19:00",
         "category": "UFC/MMA",
-        "options": [
-            {"nombre": "Paramount+ | Español", "link": "https://stream-xhd.com/live1.php?stream=paramount2"},
-            {"nombre": "Paramount+ | Inglés", "link": "https://stream-xhd.com/live1.php?stream=paramount3"},
-            {"nombre": "Paramount+ | Portugués", "link": "https://stream-xhd.com/live1.php?stream=paramount4"}
-        ]
+        "link": "https://stream-xhd.com/live1.php?stream=paramount2",
+        "nombre": "Paramount+ | Español"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
+        "fecha": "2026-06-14",
+        "time": "19:00",
+        "category": "UFC/MMA",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount3",
+        "nombre": "Paramount+ | Inglés"
+    },
+    {
+        "title": "UFC: Ilia Topuria vs Justin Gaethje",
+        "fecha": "2026-06-14",
+        "time": "19:00",
+        "category": "UFC/MMA",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount4",
+        "nombre": "Paramount+ | Portugués"
     },
     {
         "title": "Copa Del Mundo 2026: Suecia vs Túnez",
         "fecha": "2026-06-14",
         "time": "21:00",
         "category": "Fútbol",
-        "options": [
-            {"nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"},
-            {"nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv"},
-            {"nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports"},
-            {"nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports"},
-            {"nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1"},
-            {"nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"},
-            {"nombre": "FOX1US", "link": "https://streamtpday1.xyz/global2.php?stream=fox1us"},
-            {"nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html"},
-            {"nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy"},
-            {"nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html"},
-            {"nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1"},
-            {"nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"},
-            {"nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"},
-            {"nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports"},
-            {"nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo"},
-            {"nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"},
-            {"nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo"},
-            {"nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy"},
-            {"nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html"}
-        ]
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=fox1us",
+        "nombre": "FOX1US"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html",
+        "nombre": "Fussball"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html",
+        "nombre": "ITV 1"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=paramount1",
+        "nombre": "Paramount +"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "Sportv BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Suecia vs Túnez",
+        "fecha": "2026-06-14",
+        "time": "21:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "nombre": "TyC Sports"
     }
 ]
