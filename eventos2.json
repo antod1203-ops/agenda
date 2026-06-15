@@ -1,32 +1,35 @@
 [
   {
-    "title": "Copa Del Mundo 2026: Alemania vs Curazao",
-    "fecha": "2026-06-14",
-    "time": "12:00",
+    "title": "Copa Del Mundo 2026: España vs Islas de Cabo Verde",
+    "fecha": "2026-06-15",
+    "time": "11:00",
     "category": "Fútbol",
-    "featured": false,
+    "featured": true,
     "canales": [
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "TV LA 1 ES", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "WINSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=winsports" },
-      { "nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html" },
-      { "nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
       { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "La 1 ES | Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es" },
+      { "nombre": "La 1 ES| Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es" },
       { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
+      { "nombre": "Canal 4 SV | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal4sv" },
       { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Paramount +", "link": "https://stream-xhd.com/live1.php?stream=paramount1" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
+      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1" },
+      { "nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es" },
+      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
+      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
+      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
       { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
       { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix" },
-      { "nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" }
+      { "nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6" },
+      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
+      { "nombre": "TV LA 1 ES", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html" },
+      { "nombre": "Caracol TV", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php" },
+      { "nombre": "CARACOLTV", "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv" },
+      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
+      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
+      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
+      { "nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html" },
+      { "nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html" },
+      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
+      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" }
     ]
   },
   {
@@ -37,6 +40,34 @@
     "featured": false,
     "canales": [
       { "nombre": "Bicolor+", "link": "https://stream-xhd.com/live1.php?stream=bicolor" }
+    ]
+  },
+  {
+    "title": "Copa Del Mundo 2026: Bélgica vs Egipto",
+    "fecha": "2026-06-15",
+    "time": "14:00",
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
+      { "nombre": "Dsports + FHD", "link": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html" },
+      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
+      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
+      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
+      { "nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html" },
+      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
+      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
+      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
+      { "nombre": "Dsports + | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsportsplus" },
+      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
+      { "nombre": "Dsports +", "link": "https://stream-xhd.com/live1.php?stream=dsportsplus" },
+      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
+      { "nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
+      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
+      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
+      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
+      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
+      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
+      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" }
     ]
   },
   {
@@ -81,64 +112,13 @@
     ]
   },
   {
-    "title": "Copa Del Mundo 2026: Bélgica vs Egipto",
+    "title": "MLB: Washington Nationals vs Kansas City Royals",
     "fecha": "2026-06-15",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": true,
+    "time": "17:30",
+    "category": "Béisbol",
+    "featured": false,
     "canales": [
-      { "nombre": "Dsports + FHD", "link": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
-      { "nombre": "Dsports + | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsportsplus" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Dsports +", "link": "https://stream-xhd.com/live1.php?stream=dsportsplus" },
-      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" }
-    ]
-  },
-  {
-    "title": "Copa Del Mundo 2026: España vs Islas de Cabo Verde",
-    "fecha": "2026-06-15",
-    "time": "11:00",
-    "category": "Fútbol",
-    "featured": true,
-    "canales": [
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "La 1 ES| Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Canal 4 SV | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal4sv" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1" },
-      { "nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "TV LA 1 ES", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html" },
-      { "nombre": "Caracol TV", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php" },
-      { "nombre": "CARACOLTV", "link": "https://streamtpday1.xyz/global2.php?stream=caracoltv" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "ITV 1", "link": "https://sudamericaplay2.com/canal_8112/itv1gb.html" },
-      { "nombre": "Fussball", "link": "https://sudamericaplay2.com/canal_8112/sprotdigital.html" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" }
+      { "nombre": "ESPN 5", "link": "https://stream-xhd.com/live1.php?stream=espn5" }
     ]
   },
   {
@@ -174,16 +154,6 @@
     "featured": false,
     "canales": [
       { "nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2" }
-    ]
-  },
-  {
-    "title": "MLB: Washington Nationals vs Kansas City Royals",
-    "fecha": "2026-06-15",
-    "time": "17:30",
-    "category": "Béisbol",
-    "featured": false,
-    "canales": [
-      { "nombre": "ESPN 5", "link": "https://stream-xhd.com/live1.php?stream=espn5" }
     ]
   }
 ]
