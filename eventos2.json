@@ -3,8 +3,9 @@
     "title": "Copa Del Mundo 2026: Francia vs Senegal",
     "fecha": "2026-06-16",
     "time": "14:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
       { "nombre": "America TV GO", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
       { "nombre": "Canal 4 SV", "link": "https://sudamericaplay2.com/canal_8112/canal4sv.html" },
       { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
@@ -39,8 +40,9 @@
     "title": "Copa Del Mundo 2026: Iraq vs Noruega",
     "fecha": "2026-06-16",
     "time": "17:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
       { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
       { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
       { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
@@ -67,7 +69,8 @@
     "fecha": "2026-06-16",
     "time": "18:30",
     "category": "Béisbol",
-    "opciones_transmision": [
+    "featured": false,
+    "canales": [
       { "nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2" }
     ]
   },
@@ -75,8 +78,9 @@
     "title": "Copa Del Mundo 2026: Argentina vs Argelia",
     "fecha": "2026-06-16",
     "time": "20:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
       { "nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
       { "nombre": "Azteca 7 | Recomendado", "link": "https://stream-xhd.com/channel3/?id=azteca7" },
       { "nombre": "Canal 5", "link": "https://sudamericaplay2.com/canal_8112/21canalfive.html" },
@@ -122,8 +126,9 @@
     "title": "Copa Del Mundo 2026: Austria vs Jordania",
     "fecha": "2026-06-16",
     "time": "23:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
       { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
       { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
       { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
