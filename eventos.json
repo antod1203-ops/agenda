@@ -1,153 +1,890 @@
 [
-  {
-    "title": "Copa Del Mundo 2026: Francia vs Senegal",
-    "fecha": "2026-06-16",
-    "time": "14:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
-      { "nombre": "America TV GO", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
-      { "nombre": "Canal 4 SV", "link": "https://sudamericaplay2.com/canal_8112/canal4sv.html" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
-      { "nombre": "DISNEY1", "link": "https://streamtpday1.xyz/global2.php?stream=disney1" },
-      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es" },
-      { "nombre": "La 1 ES | Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es" },
-      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
-      { "nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1" },
-      { "nombre": "Sportv BR | Recomendado", "link": "https://stream-xhd.com/channel3/?id=sportv" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TV LA 1 ES FHD", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html" },
-      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" }
-    ]
-  },
-  {
-    "title": "Copa Del Mundo 2026: Iraq vs Noruega",
-    "fecha": "2026-06-16",
-    "time": "17:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsportsplus" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsportsplus" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "Unicanal PY", "link": "https://stream-xhd.com/live1.php?stream=unicanalpy" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
-      { "nombre": "Win Sports", "link": "https://stream-xhd.com/live1.php?stream=winsports" }
-    ]
-  },
-  {
-    "title": "MLB: Milwaukee Brewers vs. Cleveland Guardians",
-    "fecha": "2026-06-16",
-    "time": "18:30",
-    "category": "Béisbol",
-    "opciones_transmision": [
-      { "nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2" }
-    ]
-  },
-  {
-    "title": "Copa Del Mundo 2026: Argentina vs Argelia",
-    "fecha": "2026-06-16",
-    "time": "20:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
-      { "nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
-      { "nombre": "Azteca 7 | Recomendado", "link": "https://stream-xhd.com/channel3/?id=azteca7" },
-      { "nombre": "Canal 5", "link": "https://sudamericaplay2.com/canal_8112/21canalfive.html" },
-      { "nombre": "Canal 5 MX", "link": "https://stream-xhd.com/live1.php?stream=canal5mx" },
-      { "nombre": "Canal 5 MX | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal5mx" },
-      { "nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6" },
-      { "nombre": "Caracol TV FHD", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
-      { "nombre": "Disney + Relato y reacción", "link": "https://stream-xhd.com/live1.php?stream=disney3" },
-      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney2" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports Amazon FHD", "link": "https://stream-xhd.com/channel3/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Dsports FHD | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "RCN | Recomendado", "link": "https://stream-xhd.com/channel3/?id=rcn" },
-      { "nombre": "RCN FHD", "link": "https://sudamericaplay2.com/canal_8112/rcn51.html" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Telefe", "link": "https://sudamericaplay2.com/canal_8112/telefe81.html" },
-      { "nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe" },
-      { "nombre": "Trece", "link": "" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TUDN MX", "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html" },
-      { "nombre": "TV Publica", "link": "https://stream-xhd.com/live1.php?stream=tvpublica" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "Tyc Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "VIX", "link": "https://sudamericaplay2.com/canal_8112/vix123.html" },
-      { "nombre": "VIX + Mundial | Recomendado", "link": "https://stream-xhd.com/channel3/?id=vix" },
-      { "nombre": "VRT 1", "link": "https://sudamericaplay2.com/canal_8112/vrt1.html" }
-    ]
-  },
-  {
-    "title": "Copa Del Mundo 2026: Austria vs Jordania",
-    "fecha": "2026-06-16",
-    "time": "23:00",
-    "category": "Partido Destacado de Hoy",
-    "opciones_transmision": [
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox Sports 1 USA | English", "link": "https://stream-xhd.com/live1.php?stream=fs1usa" },
-      { "nombre": "Fox Sports 1 USA | Recomendado", "link": "https://stream-xhd.com/channel3/?id=fs1usa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
-      { "nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1" },
-      { "nombre": "Sportv BR | Recomendado", "link": "https://stream-xhd.com/channel3/?id=sportv" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Trece", "link": "" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "Tyc Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "VRT 1", "link": "https://sudamericaplay2.com/canal_8112/vrt1.html" }
-    ]
-  }
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel/?id=la1es",
+        "nombre": "La 1 ES | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=sportv",
+        "nombre": "Sportv BR | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "Sportv BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa",
+        "nombre": "Fox One USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=americatv",
+        "nombre": "America TV GO"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1",
+        "nombre": "Vix + Mundial"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=la1es",
+        "nombre": "La 1 ES"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
+        "nombre": "Chilevision"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html",
+        "nombre": "TV LA 1 ES FHD"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html",
+        "nombre": "Fox One US"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html",
+        "nombre": "Sport TV 1 BR"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/canal4sv.html",
+        "nombre": "Canal 4 SV"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney1",
+        "nombre": "DISNEY1"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html",
+        "nombre": "TSN 1"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Francia vs Senegal",
+        "fecha": "2026-06-16",
+        "time": "14:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsportsplus",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsportsplus",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "TYC Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=winsports",
+        "nombre": "Win Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1",
+        "nombre": "Vix + Mundial"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa",
+        "nombre": "Fox One USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=unicanalpy",
+        "nombre": "Unicanal PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "nombre": "TyC Sports"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports",
+        "nombre": "TYCSPORTS"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html",
+        "nombre": "TSN 1"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Iraq vs Noruega",
+        "fecha": "2026-06-16",
+        "time": "17:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html",
+        "nombre": "Fox One US"
+    },
+    {
+        "title": "MLB: Milwaukee Brewers vs. Cleveland Guardians",
+        "fecha": "2026-06-16",
+        "time": "18:30",
+        "category": "Béisbol",
+        "link": "https://stream-xhd.com/live1.php?stream=espn2",
+        "nombre": "ESPN 2"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_41/caracoltv.php",
+        "nombre": "Caracol TV FHD"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/rcn51.html",
+        "nombre": "RCN FHD"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "",
+        "nombre": "Trece"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/vix123.html",
+        "nombre": "VIX"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html",
+        "nombre": "TUDN MX"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/21canalfive.html",
+        "nombre": "Canal 5"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/vrt1.html",
+        "nombre": "VRT 1"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "nombre": "TyC Sports"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports",
+        "nombre": "TYCSPORTS"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/telefe81.html",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html",
+        "nombre": "TSN 1"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html",
+        "nombre": "Fox One US"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports FHD | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=dsports1",
+        "nombre": "Dsports Amazon FHD"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney2",
+        "nombre": "Disney+"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=rcn",
+        "nombre": "RCN | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=canal5mx",
+        "nombre": "Canal 5 MX | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=vix",
+        "nombre": "VIX + Mundial | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=azteca7",
+        "nombre": "Azteca 7 | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=disney3",
+        "nombre": "Disney + Relato y reacción"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tvpublica",
+        "nombre": "TV Publica"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telefe",
+        "nombre": "Telefe"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "Tyc Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=americatv",
+        "nombre": "America TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision",
+        "nombre": "Chilevision"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=evento6",
+        "nombre": "Caracol TV"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=canal5mx",
+        "nombre": "Canal 5 MX"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa",
+        "nombre": "Fox One USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Argentina vs Argelia",
+        "fecha": "2026-06-16",
+        "time": "20:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
+        "nombre": "Dsports FHD"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "",
+        "nombre": "Trece"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports",
+        "nombre": "DSPORTS"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "nombre": "Telemundo FHD"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html",
+        "nombre": "Sport TV 1 BR"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/vrt1.html",
+        "nombre": "VRT 1"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html",
+        "nombre": "TyC Sports"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports",
+        "nombre": "TYCSPORTS"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html",
+        "nombre": "TSN 1"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa",
+        "nombre": "TELEMUNDOUSA"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html",
+        "nombre": "Caze TV"
+    },
+    {
+        "title": "Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html",
+        "nombre": "Fox One US"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1",
+        "nombre": "Dsports | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo",
+        "nombre": "Telemundo | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=sportv",
+        "nombre": "Sportv BR | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/channel3/?id=fs1usa",
+        "nombre": "Fox Sports 1 USA | Recomendado"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports",
+        "nombre": "Dsports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports",
+        "nombre": "Tyc Sports"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1",
+        "nombre": "Sportv BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo",
+        "nombre": "Telemundo USA"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv",
+        "nombre": "CazéTV BR"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy",
+        "nombre": "Gen PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy",
+        "nombre": "Trece PY"
+    },
+    {
+        "title": "Copa Del Mundo 2026: Austria vs Jordania",
+        "fecha": "2026-06-16",
+        "time": "23:00",
+        "category": "Fútbol",
+        "link": "https://stream-xhd.com/live1.php?stream=fs1usa",
+        "nombre": "Fox Sports 1 USA | English"
+    }
 ]
