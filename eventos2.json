@@ -6,34 +6,118 @@
     "category": "Fútbol",
     "featured": true,
     "canales": [
-      { "nombre": "America TV GO", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
-      { "nombre": "Canal 4 SV", "link": "https://sudamericaplay2.com/canal_8112/canal4sv.html" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
-      { "nombre": "DISNEY1", "link": "https://streamtpday1.xyz/global2.php?stream=disney1" },
-      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney1" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "La 1 ES", "link": "https://stream-xhd.com/live1.php?stream=la1es" },
-      { "nombre": "La 1 ES | Recomendado", "link": "https://stream-xhd.com/channel/?id=la1es" },
-      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
-      { "nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1" },
-      { "nombre": "Sportv BR | Recomendado", "link": "https://stream-xhd.com/channel3/?id=sportv" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TV LA 1 ES FHD", "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html" },
-      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" }
+      {
+        "nombre": "America TV GO",
+        "link": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Disney+",
+        "link": "https://stream-xhd.com/live1.php?stream=disney1"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      },
+      {
+        "nombre": "Gen PY",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "La 1 ES",
+        "link": "https://stream-xhd.com/live1.php?stream=la1es"
+      },
+      {
+        "nombre": "La 1 ES | Recomendado",
+        "link": "https://stream-xhd.com/channel/?id=la1es"
+      },
+      {
+        "nombre": "Sportv BR",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Sportv BR | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Trece PY",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "TYC Sports",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Canal 4 SV",
+        "link": "https://sudamericaplay2.com/canal_8112/canal4sv.html"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"
+      },
+      {
+        "nombre": "DISNEY1",
+        "link": "https://streamtpday1.xyz/global2.php?stream=disney1"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "Fox One US",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html"
+      },
+      {
+        "nombre": "Sport TV 1 BR",
+        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html"
+      },
+      {
+        "nombre": "Telemundo FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TV LA 1 ES FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html"
+      }
     ]
   },
   {
@@ -43,25 +127,82 @@
     "category": "Fútbol",
     "featured": true,
     "canales": [
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsportsplus" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsportsplus" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "TYC Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "Unicanal PY", "link": "https://stream-xhd.com/live1.php?stream=unicanalpy" },
-      { "nombre": "Vix + Mundial", "link": "https://stream-xhd.com/live1.php?stream=vix1" },
-      { "nombre": "Win Sports", "link": "https://stream-xhd.com/live1.php?stream=winsports" }
+      {
+        "nombre": "CazéTV BR",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://stream-xhd.com/live1.php?stream=dsportsplus"
+      },
+      {
+        "nombre": "Dsports | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=dsportsplus"
+      },
+      {
+        "nombre": "Fox One USA",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "TYC Sports",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Unicanal PY",
+        "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+      },
+      {
+        "nombre": "Vix + Mundial",
+        "link": "https://stream-xhd.com/live1.php?stream=vix1"
+      },
+      {
+        "nombre": "Win Sports",
+        "link": "https://stream-xhd.com/live1.php?stream=winsports"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "Fox One US",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html"
+      },
+      {
+        "nombre": "Telemundo FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TyC Sports",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html"
+      },
+      {
+        "nombre": "TYCSPORTS",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports"
+      }
     ]
   },
   {
@@ -71,7 +212,10 @@
     "category": "Béisbol",
     "featured": false,
     "canales": [
-      { "nombre": "ESPN 2", "link": "https://stream-xhd.com/live1.php?stream=espn2" }
+      {
+        "nombre": "ESPN 2",
+        "link": "https://stream-xhd.com/live1.php?stream=espn2"
+      }
     ]
   },
   {
@@ -81,45 +225,162 @@
     "category": "Fútbol",
     "featured": true,
     "canales": [
-      { "nombre": "America TV", "link": "https://stream-xhd.com/live1.php?stream=americatv" },
-      { "nombre": "Azteca 7 | Recomendado", "link": "https://stream-xhd.com/channel3/?id=azteca7" },
-      { "nombre": "Canal 5", "link": "https://sudamericaplay2.com/canal_8112/21canalfive.html" },
-      { "nombre": "Canal 5 MX", "link": "https://stream-xhd.com/live1.php?stream=canal5mx" },
-      { "nombre": "Canal 5 MX | Recomendado", "link": "https://stream-xhd.com/channel3/?id=canal5mx" },
-      { "nombre": "Caracol TV", "link": "https://stream-xhd.com/live1.php?stream=evento6" },
-      { "nombre": "Caracol TV FHD", "link": "https://sudamericaplay2.com/canal_41/caracoltv.php" },
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "Chilevision", "link": "https://stream-xhd.com/live1.php?stream=chilevision" },
-      { "nombre": "Disney + Relato y reacción", "link": "https://stream-xhd.com/live1.php?stream=disney3" },
-      { "nombre": "Disney+", "link": "https://stream-xhd.com/live1.php?stream=disney2" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports Amazon FHD", "link": "https://stream-xhd.com/channel3/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Dsports FHD | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox One USA", "link": "https://stream-xhd.com/live1.php?stream=foxoneusa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "RCN | Recomendado", "link": "https://stream-xhd.com/channel3/?id=rcn" },
-      { "nombre": "RCN FHD", "link": "https://sudamericaplay2.com/canal_8112/rcn51.html" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Telefe", "link": "https://sudamericaplay2.com/canal_8112/telefe81.html" },
-      { "nombre": "Telefe", "link": "https://stream-xhd.com/live1.php?stream=telefe" },
-      { "nombre": "Trece", "link": "" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TUDN MX", "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html" },
-      { "nombre": "TV Publica", "link": "https://stream-xhd.com/live1.php?stream=tvpublica" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "Tyc Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "VIX", "link": "https://sudamericaplay2.com/canal_8112/vix123.html" },
-      { "nombre": "VIX + Mundial | Recomendado", "link": "https://stream-xhd.com/channel3/?id=vix" },
-      { "nombre": "VRT 1", "link": "https://sudamericaplay2.com/canal_8112/vrt1.html" }
+      {
+        "nombre": "America TV",
+        "link": "https://stream-xhd.com/live1.php?stream=americatv"
+      },
+      {
+        "nombre": "Azteca 7 | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=azteca7"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "link": "https://stream-xhd.com/live1.php?stream=canal5mx"
+      },
+      {
+        "nombre": "Canal 5 MX | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=canal5mx"
+      },
+      {
+        "nombre": "Caracol TV",
+        "link": "https://stream-xhd.com/live1.php?stream=evento6"
+      },
+      {
+        "nombre": "CazéTV BR",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Chilevision",
+        "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+      },
+      {
+        "nombre": "Disney + Relato y reacción",
+        "link": "https://stream-xhd.com/live1.php?stream=disney3"
+      },
+      {
+        "nombre": "Disney+",
+        "link": "https://stream-xhd.com/live1.php?stream=disney2"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports Amazon FHD",
+        "link": "https://stream-xhd.com/channel3/?id=dsports1"
+      },
+      {
+        "nombre": "Dsports FHD | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox One USA",
+        "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+      },
+      {
+        "nombre": "Gen PY",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "RCN | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=rcn"
+      },
+      {
+        "nombre": "Telefe",
+        "link": "https://stream-xhd.com/live1.php?stream=telefe"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Trece PY",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "TV Publica",
+        "link": "https://stream-xhd.com/live1.php?stream=tvpublica"
+      },
+      {
+        "nombre": "Tyc Sports",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "VIX + Mundial | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=vix"
+      },
+      {
+        "nombre": "Canal 5",
+        "link": "https://sudamericaplay2.com/canal_8112/21canalfive.html"
+      },
+      {
+        "nombre": "Caracol TV FHD",
+        "link": "https://sudamericaplay2.com/canal_41/caracoltv.php"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "Fox One US",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html"
+      },
+      {
+        "nombre": "RCN FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/rcn51.html"
+      },
+      {
+        "nombre": "Telefe",
+        "link": "https://sudamericaplay2.com/canal_8112/telefe81.html"
+      },
+      {
+        "nombre": "Telemundo FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
+      },
+      {
+        "nombre": "Trece",
+        "link": ""
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TUDN MX",
+        "link": "https://sudamericaplay2.com/canal_8112/tudnmx.html"
+      },
+      {
+        "nombre": "TyC Sports",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html"
+      },
+      {
+        "nombre": "TYCSPORTS",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports"
+      },
+      {
+        "nombre": "VIX",
+        "link": "https://sudamericaplay2.com/canal_8112/vix123.html"
+      },
+      {
+        "nombre": "VRT 1",
+        "link": "https://sudamericaplay2.com/canal_8112/vrt1.html"
+      }
     ]
   },
   {
@@ -129,30 +390,102 @@
     "category": "Fútbol",
     "featured": true,
     "canales": [
-      { "nombre": "Caze TV", "link": "https://sudamericaplay2.com/canal_8112/cazetv.html" },
-      { "nombre": "CazéTV BR", "link": "https://stream-xhd.com/live1.php?stream=cazetv" },
-      { "nombre": "DSPORTS", "link": "https://streamtpday1.xyz/global2.php?stream=dsports" },
-      { "nombre": "Dsports", "link": "https://stream-xhd.com/live1.php?stream=dsports" },
-      { "nombre": "Dsports | Recomendado", "link": "https://stream-xhd.com/channel2/?id=dsports1" },
-      { "nombre": "Dsports FHD", "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html" },
-      { "nombre": "Fox One US", "link": "https://sudamericaplay2.com/canal_8112/foxone.html" },
-      { "nombre": "Fox Sports 1 USA | English", "link": "https://stream-xhd.com/live1.php?stream=fs1usa" },
-      { "nombre": "Fox Sports 1 USA | Recomendado", "link": "https://stream-xhd.com/channel3/?id=fs1usa" },
-      { "nombre": "Gen PY", "link": "https://stream-xhd.com/live1.php?stream=genpy" },
-      { "nombre": "Sport TV 1 BR", "link": "https://sudamericaplay2.com/canal_8112/sportv1.html" },
-      { "nombre": "Sportv BR", "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1" },
-      { "nombre": "Sportv BR | Recomendado", "link": "https://stream-xhd.com/channel3/?id=sportv" },
-      { "nombre": "TELEMUNDOUSA", "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa" },
-      { "nombre": "Telemundo | Recomendado", "link": "https://stream-xhd.com/channel2/?id=telemundo" },
-      { "nombre": "Telemundo FHD", "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html" },
-      { "nombre": "Telemundo USA", "link": "https://stream-xhd.com/live1.php?stream=telemundo" },
-      { "nombre": "Trece", "link": "" },
-      { "nombre": "Trece PY", "link": "https://stream-xhd.com/live1.php?stream=trecepy" },
-      { "nombre": "TSN 1", "link": "https://sudamericaplay2.com/canal_8112/tsn1.html" },
-      { "nombre": "TyC Sports", "link": "https://sudamericaplay2.com/canal_8112/541tyc.html" },
-      { "nombre": "Tyc Sports", "link": "https://stream-xhd.com/live1.php?stream=tycsports" },
-      { "nombre": "TYCSPORTS", "link": "https://streamtpday1.xyz/global1.php?stream=tycsports" },
-      { "nombre": "VRT 1", "link": "https://sudamericaplay2.com/canal_8112/vrt1.html" }
+      {
+        "nombre": "CazéTV BR",
+        "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://stream-xhd.com/live1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=dsports1"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | English",
+        "link": "https://stream-xhd.com/live1.php?stream=fs1usa"
+      },
+      {
+        "nombre": "Fox Sports 1 USA | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=fs1usa"
+      },
+      {
+        "nombre": "Gen PY",
+        "link": "https://stream-xhd.com/live1.php?stream=genpy"
+      },
+      {
+        "nombre": "Sportv BR",
+        "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+      },
+      {
+        "nombre": "Sportv BR | Recomendado",
+        "link": "https://stream-xhd.com/channel3/?id=sportv"
+      },
+      {
+        "nombre": "Telemundo USA",
+        "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+      },
+      {
+        "nombre": "Telemundo | Recomendado",
+        "link": "https://stream-xhd.com/channel2/?id=telemundo"
+      },
+      {
+        "nombre": "Trece PY",
+        "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+      },
+      {
+        "nombre": "Tyc Sports",
+        "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay2.com/canal_8112/cazetv.html"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "Fox One US",
+        "link": "https://sudamericaplay2.com/canal_8112/foxone.html"
+      },
+      {
+        "nombre": "Sport TV 1 BR",
+        "link": "https://sudamericaplay2.com/canal_8112/sportv1.html"
+      },
+      {
+        "nombre": "Telemundo FHD",
+        "link": "https://sudamericaplay2.com/canal_8112/74telemundo.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
+      },
+      {
+        "nombre": "Trece",
+        "link": ""
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay2.com/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TyC Sports",
+        "link": "https://sudamericaplay2.com/canal_8112/541tyc.html"
+      },
+      {
+        "nombre": "TYCSPORTS",
+        "link": "https://streamtpday1.xyz/global1.php?stream=tycsports"
+      },
+      {
+        "nombre": "VRT 1",
+        "link": "https://sudamericaplay2.com/canal_8112/vrt1.html"
+      }
     ]
   }
 ]
