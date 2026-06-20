@@ -1,170 +1,14 @@
 [
     {
-        "title": "MotoGP: GP Chequia – Clasificación",
+        "title": "Copa Chile: Coquimbo Unido vs Deportes Iquique",
         "fecha": "2026-06-20",
-        "time": "03:45",
-        "category": "Motor",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "link": "https://stream-xhd.com/live1.php?stream=espn2"
-            }
-        ]
-    },
-    {
-        "title": "Hockey – Pro League Femenino – Bélgica vs Argentina",
-        "fecha": "2026-06-20",
-        "time": "06:00",
-        "category": "Otros Deportes",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "link": "https://tvtvhd.com/canales.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2 | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2 | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-            }
-        ]
-    },
-    {
-        "title": "Hockey – Pro League Masculino – Inglaterra vs Argentina",
-        "fecha": "2026-06-20",
-        "time": "06:30",
-        "category": "Otros Deportes",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 5",
-                "link": "https://tvtvhd.com/canales.php?stream=espn5"
-            },
-            {
-                "nombre": "ESPN 5 | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-            },
-            {
-                "nombre": "ESPN 5 | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-            }
-        ]
-    },
-    {
-        "title": "MotoGP: GP Chequia – Sprint",
-        "fecha": "2026-06-20",
-        "time": "07:30",
-        "category": "Motor",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 4",
-                "link": "https://tvtvhd.com/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4",
-                "link": "https://stream-xhd.com/live1.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
-            }
-        ]
-    },
-    {
-        "title": "Segunda División: Deportivo Colonia vs River Plate",
-        "fecha": "2026-06-20",
-        "time": "08:00",
+        "time": "11:30",
         "category": "Fútbol",
         "featured": false,
         "canales": [
             {
-                "nombre": "Disney+",
-                "link": "https://tvtvhd.com/canales.php?stream=disney1"
-            },
-            {
-                "nombre": "Disney1",
-                "link": "https://la18hd.com/vivo/canales.php?stream=disney1"
-            }
-        ]
-    },
-    {
-        "title": "Rugby: Premiership – Final",
-        "fecha": "2026-06-20",
-        "time": "08:45",
-        "category": "Otros Deportes",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 4",
-                "link": "https://tvtvhd.com/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
-            }
-        ]
-    },
-    {
-        "title": "Copa de la Liga: AD Cantolao vs San Martín",
-        "fecha": "2026-06-20",
-        "time": "11:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Bicolor+",
-                "link": "https://stream-xhd.com/live1.php?stream=bicolor"
-            }
-        ]
-    },
-    {
-        "title": "Golf – US Open 2026 – Tercera Vuelta",
-        "fecha": "2026-06-20",
-        "time": "11:00",
-        "category": "Golf",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 2",
-                "link": "https://tvtvhd.com/canales.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2 | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2 | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
-            }
-        ]
-    },
-    {
-        "title": "Segunda División: Fénix vs Oriental",
-        "fecha": "2026-06-20",
-        "time": "11:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://tvtvhd.com/canales.php?stream=espn"
-            },
-            {
-                "nombre": "Disney2",
-                "link": "https://la18hd.com/vivo/canales.php?stream=disney2"
+                "nombre": "Tntsportschile",
+                "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
             }
         ]
     },
@@ -173,23 +17,51 @@
         "fecha": "2026-06-20",
         "time": "12:00",
         "category": "Fútbol",
-        "featured": true,
+        "featured": false,
         "canales": [
+            {
+                "nombre": "America Television",
+                "link": "https://tvtvhd.com/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "Americatv",
+                "link": "https://la18hd.com/vivo/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "Azteca 7",
+                "link": "https://tvtvhd.com/canales.php?stream=azteca7"
+            },
+            {
+                "nombre": "Azteca 7 HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=azteca7"
+            },
+            {
+                "nombre": "Azteca 7 | OP2",
+                "link": "https://tvtvhd.com/vivo/canal.php?stream=azteca7"
+            },
+            {
+                "nombre": "Azteca 7 | OP3",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=azteca7"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://tvtvhd.com/canales.php?stream=canal5"
+            },
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://tvtvhd.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=dsports"
+            },
             {
                 "nombre": "DSports",
                 "link": "https://tvtvhd.com/canales.php?stream=dsports"
             },
             {
-                "nombre": "DSports",
-                "link": "https://stream-xhd.com/live1.php?stream=dsports"
-            },
-            {
-                "nombre": "DSports FHD",
-                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
-            },
-            {
-                "nombre": "DSports FHD | Spanish",
-                "link": "https://stream-xhd.com/channel2/?id=dsports1"
+                "nombre": "DSports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=dsports"
             },
             {
                 "nombre": "DSports | OP2",
@@ -200,72 +72,52 @@
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
             },
             {
-                "nombre": "Win Sports",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+                "nombre": "Opción",
+                "link": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9hYmt2MnB2YWFhYWFhYWFtY2NseW5nc2Zkem4zdC5iaWEtY2YubGl2ZS5wdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvaWF5ZzBreXJvZi9vdXQvdjEvOTFkYzA0OTA3ZjU2NDE1Yjg5N2ZhY2NmYTlkMjUyZGEvY2VuYy5tcGQ=&k=MTIyM2Q1MTA1MzkyY2FiZjFiYjljMmMxZmRmNjUzOWE6MzQwYjQwOWY0YjhmNzhhMzQzZTAzNjNhNzkzOGRmMzg="
             },
             {
-                "nombre": "Win Sports ┃ OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=winsports"
+                "nombre": "Telemundo",
+                "link": "https://la18hd.com/vivo/canales.php?stream=telemundo"
             },
             {
                 "nombre": "Telemundo",
                 "link": "https://tvtvhd.com/canales.php?stream=telemundo"
             },
             {
-                "nombre": "Telemundo USA",
-                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+                "nombre": "Telemundo HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=telemundo"
             },
             {
-                "nombre": "Telemundo | Spanish VPN USA",
-                "link": "https://stream-xhd.com/channel2/?id=telemundo"
+                "nombre": "TYC Sports",
+                "link": "https://tvtvhd.com/canales.php?stream=tycsports"
             },
             {
-                "nombre": "TyC Sports",
-                "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+                "nombre": "TYC Sports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=tycsports"
             },
             {
-                "nombre": "America TV",
-                "link": "https://stream-xhd.com/live1.php?stream=americatv"
-            },
-            {
-                "nombre": "Azteca 7",
-                "link": "https://stream-xhd.com/live1.php?stream=azteca7"
-            },
-            {
-                "nombre": "Canal 5 MX",
-                "link": "https://stream-xhd.com/live1.php?stream=canal5mx"
-            },
-            {
-                "nombre": "Fox One USA",
-                "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-            },
-            {
-                "nombre": "CazéTV BR",
-                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
-            },
-            {
-                "nombre": "Vix + Mundial",
-                "link": "https://stream-xhd.com/live1.php?stream=vix1"
-            },
-            {
-                "nombre": "Unicanal PY",
-                "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+                "nombre": "Tycsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=tycsports"
             },
             {
                 "nombre": "Vtvplus",
                 "link": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
             },
             {
-                "nombre": "TV LA 1 ES",
-                "link": "https://sudamericaplay2.com/canal_8112/tvla1es.html"
+                "nombre": "Win Sports",
+                "link": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
             },
             {
-                "nombre": "ZDF HD",
-                "link": "https://sudamericaplay2.com/canal_8112/zdf1.html"
+                "nombre": "Win Sports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=winsports"
             },
             {
-                "nombre": "M6 FR",
-                "link": "https://sudamericaplay2.com/canal_8112/m661.html"
+                "nombre": "Win Sports ┃OP3",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=winsports"
+            },
+            {
+                "nombre": "Winsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=winsports"
             }
         ]
     },
@@ -291,19 +143,15 @@
         ]
     },
     {
-        "title": "ESPN Knockout: Ryan Garner vs Michael Magnesi",
+        "title": "ESPN Knockout – Ryan Garner vs Michael Magnesi",
         "fecha": "2026-06-20",
         "time": "13:00",
-        "category": "Boxeo/MMA",
+        "category": "UFC/MMA",
         "featured": false,
         "canales": [
             {
                 "nombre": "ESPN 3",
                 "link": "https://tvtvhd.com/canales.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3",
-                "link": "https://stream-xhd.com/live1.php?stream=espn3"
             },
             {
                 "nombre": "ESPN 3 | OP2",
@@ -312,6 +160,19 @@
             {
                 "nombre": "ESPN 3 | OP3",
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+            }
+        ]
+    },
+    {
+        "title": "ESPN Knockout: Ryan Garner vs Michael Magnesi",
+        "fecha": "2026-06-20",
+        "time": "13:00",
+        "category": "UFC/MMA",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "link": "https://stream-xhd.com/live1.php?stream=espn3"
             }
         ]
     },
@@ -329,6 +190,73 @@
         ]
     },
     {
+        "title": "Almería vs Málaga | Final 2/2",
+        "fecha": "2026-06-20",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "DISNEY1",
+                "link": "https://streamtpday1.xyz/global2.php?stream=disney1"
+            }
+        ]
+    },
+    {
+        "title": "Copa Chile: Copiapó vs Universidad Católica",
+        "fecha": "2026-06-20",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Tntsportschile",
+                "link": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+        ]
+    },
+    {
+        "title": "Copa del Mundo: Alemania vs Costa de Marfil",
+        "fecha": "2026-06-20",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Americatv",
+                "link": "https://la18hd.com/vivo/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "Caracol",
+                "link": "https://la18hd.com/vivo/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Disney6",
+                "link": "https://la18hd.com/vivo/canales.php?stream=disney6"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Sportv",
+                "link": "https://la18hd.com/vivo/canales.php?stream=sportv"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://la18hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Tycsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+                "nombre": "Vtvplus",
+                "link": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
+            }
+        ]
+    },
+    {
         "title": "LaLiga Hypermotion: UD Almería vs Málaga | Playoffs Final",
         "fecha": "2026-06-20",
         "time": "14:00",
@@ -337,11 +265,24 @@
         "canales": [
             {
                 "nombre": "ESPN 5",
-                "link": "https://tvtvhd.com/canales.php?stream=espn5"
+                "link": "https://stream-xhd.com/live1.php?stream=espn5"
+            }
+        ]
+    },
+    {
+        "title": "LaLiga SmartBank: Almería vs Málaga | Final 2/2",
+        "fecha": "2026-06-20",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Disney+",
+                "link": "https://tvtvhd.com/canales.php?stream=disney3"
             },
             {
                 "nombre": "ESPN 5",
-                "link": "https://stream-xhd.com/live1.php?stream=espn5"
+                "link": "https://tvtvhd.com/canales.php?stream=espn5"
             },
             {
                 "nombre": "ESPN 5 | OP2",
@@ -352,16 +293,21 @@
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
             },
             {
-                "nombre": "Disney+",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney1"
-            },
+                "nombre": "LaLiga TV Hypermotion",
+                "link": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+            }
+        ]
+    },
+    {
+        "title": "LaLiga2: Almería vs Málaga | Final 2/2",
+        "fecha": "2026-06-20",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
             {
                 "nombre": "Disney3",
                 "link": "https://la18hd.com/vivo/canales.php?stream=disney3"
-            },
-            {
-                "nombre": "LaLiga TV Hypermotion",
-                "link": "https://tvtvhd.com/canales.php?stream=hypermotion1"
             }
         ]
     },
@@ -379,7 +325,7 @@
         ]
     },
     {
-        "title": "Segunda División: Tacuarembó vs Paysandú",
+        "title": "Segunda División: Tacuarembó vs Paysandu",
         "fecha": "2026-06-20",
         "time": "14:00",
         "category": "Fútbol",
@@ -387,7 +333,7 @@
         "canales": [
             {
                 "nombre": "Disney+",
-                "link": "https://tvtvhd.com/canales.php?stream=espn"
+                "link": "https://tvtvhd.com/canales.php?stream=disney5"
             },
             {
                 "nombre": "Disney5",
@@ -417,87 +363,59 @@
         ]
     },
     {
-        "title": "Copa del Mundo: Alemania vs Costa de Marfil",
+        "title": "Alemania vs Costa de Marfil",
         "fecha": "2026-06-20",
         "time": "15:00",
         "category": "Fútbol",
-        "featured": true,
+        "featured": false,
         "canales": [
-            {
-                "nombre": "Caracol TV",
-                "link": "https://stream-xhd.com/live1.php?stream=evento6"
-            },
             {
                 "nombre": "Caracol TV FHD",
                 "link": "https://sudamericaplay2.com/canal_41/caracoltv.php"
             },
             {
-                "nombre": "RCN | Spanish",
-                "link": "https://stream-xhd.com/channel3/?id=rcn"
+                "nombre": "Caze TV",
+                "link": "https://sudamericaplay2.com/canal_8112/34cazetv.html"
+            },
+            {
+                "nombre": "DSPORTS",
+                "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+            },
+            {
+                "nombre": "Fox ONE US FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/1foxone.html"
+            },
+            {
+                "nombre": "M6 FR",
+                "link": "https://sudamericaplay2.com/canal_8112/m661.html"
             },
             {
                 "nombre": "RCN FHD",
                 "link": "https://sudamericaplay2.com/canal_8112/rcn51.html"
             },
             {
-                "nombre": "DSports",
-                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+                "nombre": "Sport TV",
+                "link": "https://sudamericaplay2.com/canal_8112/1sportv1.html"
             },
             {
-                "nombre": "DSports FHD",
-                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+                "nombre": "TELEMUNDOUSA",
+                "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
             },
             {
-                "nombre": "DSports | OP2",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=dsports"
+                "nombre": "TYCSPORTS",
+                "link": "https://streamtpday1.xyz/global2.php?stream=tycsports"
             },
             {
-                "nombre": "DSports | OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+                "nombre": "VIX1",
+                "link": "https://streamtpday1.xyz/global2.php?stream=vix1"
             },
             {
-                "nombre": "Telemundo",
-                "link": "https://tvtvhd.com/canales.php?stream=telemundo"
-            },
-            {
-                "nombre": "TyC Sports",
-                "link": "https://stream-xhd.com/live1.php?stream=tycsports"
-            },
-            {
-                "nombre": "America TV",
-                "link": "https://stream-xhd.com/live1.php?stream=americatv"
-            },
-            {
-                "nombre": "Disney6",
-                "link": "https://la18hd.com/vivo/canales.php?stream=disney6"
-            },
-            {
-                "nombre": "Fox One USA",
-                "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-            },
-            {
-                "nombre": "Sportv BR",
-                "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
-            },
-            {
-                "nombre": "CazéTV BR",
-                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
-            },
-            {
-                "nombre": "Vix + Mundial",
-                "link": "https://stream-xhd.com/live1.php?stream=vix1"
-            },
-            {
-                "nombre": "Telefe",
-                "link": "https://tvtvhd.com/canales.php?stream=telefe"
-            },
-            {
-                "nombre": "Chilevision",
-                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
-            },
-            {
-                "nombre": "Gen PY",
-                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+                "nombre": "ZDF  HD",
+                "link": "https://sudamericaplay2.com/canal_8112/zdf1.html"
             }
         ]
     },
@@ -511,6 +429,152 @@
             {
                 "nombre": "Bicolor+",
                 "link": "https://stream-xhd.com/live1.php?stream=bicolor"
+            }
+        ]
+    },
+    {
+        "title": "Copa Del Mundo 2026: Alemania vs Costa de Marfil",
+        "fecha": "2026-06-20",
+        "time": "15:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "America TV",
+                "link": "https://stream-xhd.com/live1.php?stream=americatv"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://stream-xhd.com/live1.php?stream=evento6"
+            },
+            {
+                "nombre": "CazéTV BR",
+                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+            },
+            {
+                "nombre": "Chilevision",
+                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD | Espanish",
+                "link": "https://stream-xhd.com/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Fox One USA | Esglish",
+                "link": "https://stream-xhd.com/channel3/?id=foxoneusa"
+            },
+            {
+                "nombre": "Fox One USA | Esglish",
+                "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+            },
+            {
+                "nombre": "Gen PY",
+                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+            },
+            {
+                "nombre": "RCN | Espanish",
+                "link": "https://stream-xhd.com/channel3/?id=rcn"
+            },
+            {
+                "nombre": "Sportv BR",
+                "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            },
+            {
+                "nombre": "Sportv BR | Portugues",
+                "link": "https://stream-xhd.com/channel3/?id=sportv"
+            },
+            {
+                "nombre": "Telefe",
+                "link": "https://stream-xhd.com/live1.php?stream=telefe"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo | Espanish VPN USA",
+                "link": "https://stream-xhd.com/channel2/?id=telemundo"
+            },
+            {
+                "nombre": "Trece PY",
+                "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+            },
+            {
+                "nombre": "TYC Sports",
+                "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+            },
+            {
+                "nombre": "Vix + Mundial",
+                "link": "https://stream-xhd.com/live1.php?stream=vix1"
+            }
+        ]
+    },
+    {
+        "title": "Copa del Mundo: Alemania vs Costa de Marfil",
+        "fecha": "2026-06-20",
+        "time": "15:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "America Television",
+                "link": "https://tvtvhd.com/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://tvtvhd.com/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://tvtvhd.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Disney+",
+                "link": "https://tvtvhd.com/canales.php?stream=disney6"
+            },
+            {
+                "nombre": "DSports",
+                "link": "https://tvtvhd.com/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports | OP2",
+                "link": "https://tvtvhd.com/vivo/canal.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports | OP3",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Sportv BR",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+            },
+            {
+                "nombre": "Telefe",
+                "link": "https://tvtvhd.com/canales.php?stream=telefe"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://tvtvhd.com/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "TYC Sports",
+                "link": "https://tvtvhd.com/canales.php?stream=tycsports"
+            },
+            {
+                "nombre": "TYC Sports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=tycsports"
             }
         ]
     },
@@ -549,7 +613,7 @@
         "canales": [
             {
                 "nombre": "Disney+",
-                "link": "https://tvtvhd.com/canales.php?stream=espn"
+                "link": "https://tvtvhd.com/canales.php?stream=disney7"
             },
             {
                 "nombre": "Disney7",
@@ -558,19 +622,76 @@
         ]
     },
     {
+        "title": "Copa Del Mundo 2026: Ecuador vs Curazao",
+        "fecha": "2026-06-20",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "CazéTV BR",
+                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD | Espanish",
+                "link": "https://stream-xhd.com/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Fox Sports 1 USA | English",
+                "link": "https://stream-xhd.com/channel3/?id=fs1usa"
+            },
+            {
+                "nombre": "Fox Sports 1 USA | English",
+                "link": "https://stream-xhd.com/live1.php?stream=fs1usa"
+            },
+            {
+                "nombre": "Gen PY",
+                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo | Espanish VPN USA",
+                "link": "https://stream-xhd.com/channel2/?id=telemundo"
+            },
+            {
+                "nombre": "Trece PY",
+                "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+            },
+            {
+                "nombre": "Vix + Mundial",
+                "link": "https://stream-xhd.com/live1.php?stream=vix1"
+            }
+        ]
+    },
+    {
         "title": "Copa del Mundo: Ecuador vs Curazao",
         "fecha": "2026-06-20",
         "time": "19:00",
         "category": "Fútbol",
-        "featured": true,
+        "featured": false,
         "canales": [
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://tvtvhd.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=dsports"
+            },
             {
                 "nombre": "DSports",
                 "link": "https://tvtvhd.com/canales.php?stream=dsports"
             },
             {
-                "nombre": "DSports FHD",
-                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+                "nombre": "DSports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=dsports"
             },
             {
                 "nombre": "DSports | OP2",
@@ -581,44 +702,126 @@
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
             },
             {
-                "nombre": "Win Sports",
-                "link": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+                "nombre": "FOX Sports 1 USA",
+                "link": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
             },
             {
-                "nombre": "Win Sports ┃ OP3",
-                "link": "https://tvtvhd.com/vivo/canales.php?stream=winsports"
+                "nombre": "Foxsports1_usa",
+                "link": "https://la18hd.com/vivo/canales.php?stream=foxsports1_usa"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://la18hd.com/vivo/canales.php?stream=telemundo"
             },
             {
                 "nombre": "Telemundo",
                 "link": "https://tvtvhd.com/canales.php?stream=telemundo"
             },
             {
-                "nombre": "FOX Sports 1 USA",
-                "link": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
-            },
-            {
-                "nombre": "Fox One US FHD",
-                "link": "https://sudamericaplay2.com/canal_8112/1foxone.html"
-            },
-            {
-                "nombre": "CazéTV BR",
-                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
-            },
-            {
-                "nombre": "Vix + Mundial",
-                "link": "https://stream-xhd.com/live1.php?stream=vix1"
-            },
-            {
-                "nombre": "Trece HD",
-                "link": "https://sudamericaplay2.com/canal_41/trecepy.php"
+                "nombre": "Telemundo HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=telemundo"
             },
             {
                 "nombre": "Universo",
                 "link": "https://la18hd.com/vivo/canales.php?stream=universo"
             },
             {
-                "nombre": "Gen PY",
-                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+                "nombre": "Universo",
+                "link": "https://tvtvhd.com/canales.php?stream=universo"
+            },
+            {
+                "nombre": "Vtvplus",
+                "link": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
+            },
+            {
+                "nombre": "Win Sports",
+                "link": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports ┃OP3",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=winsports"
+            },
+            {
+                "nombre": "Winsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=winsports"
+            }
+        ]
+    },
+    {
+        "title": "Ecuador vs Curazao",
+        "fecha": "2026-06-20",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "#",
+                "link": ""
+            },
+            {
+                "nombre": "Caze TV",
+                "link": "https://sudamericaplay2.com/canal_8112/34cazetv.html"
+            },
+            {
+                "nombre": "DSPORTS",
+                "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+            },
+            {
+                "nombre": "Fox ONE US FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/1foxone.html"
+            },
+            {
+                "nombre": "TELEMUNDOUSA",
+                "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
+            },
+            {
+                "nombre": "Trece  HD",
+                "link": "https://sudamericaplay2.com/canal_41/trecepy.php"
+            },
+            {
+                "nombre": "ZDF  HD",
+                "link": "https://sudamericaplay2.com/canal_8112/zdf1.html"
+            }
+        ]
+    },
+    {
+        "title": "Manel Kape vs. Kyoji Horiguchi",
+        "fecha": "2026-06-20",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Paramount+",
+                "link": "https://sudamericaplay2.com/ufc/player_espa1.php"
+            },
+            {
+                "nombre": "Paramount+",
+                "link": "https://sudamericaplay2.com/ufc/player_portugues.php"
+            },
+            {
+                "nombre": "PARAMOUNT1",
+                "link": "https://streamtpday1.xyz/global2.php?stream=paramount1"
+            },
+            {
+                "nombre": "PARAMOUNT2",
+                "link": "https://streamtpday1.xyz/global2.php?stream=paramount2"
+            },
+            {
+                "nombre": "PARAMOUNT3",
+                "link": "https://streamtpday1.xyz/global2.php?stream=paramount3"
+            },
+            {
+                "nombre": "TNT 1 GB",
+                "link": "https://sudamericaplay2.com/canal_8112/tnt1gb.html"
             }
         ]
     },
@@ -626,7 +829,7 @@
         "title": "UFC: Manel Kape vs Kyoji Horiguchi",
         "fecha": "2026-06-20",
         "time": "19:00",
-        "category": "Boxeo/MMA",
+        "category": "UFC/MMA",
         "featured": false,
         "canales": [
             {
@@ -640,10 +843,6 @@
             {
                 "nombre": "Paramount+ | Portugués",
                 "link": "https://stream-xhd.com/live1.php?stream=paramount4"
-            },
-            {
-                "nombre": "PARAMOUNT1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=paramount1"
             }
         ]
     },
@@ -674,19 +873,15 @@
         ]
     },
     {
-        "title": "ESPN Knockout: Oscar Collazo vs Joey Canoy",
+        "title": "ESPN Knockout – Oscar Collazo vs Joey Canoy",
         "fecha": "2026-06-20",
         "time": "20:00",
-        "category": "Boxeo/MMA",
+        "category": "UFC/MMA",
         "featured": false,
         "canales": [
             {
                 "nombre": "ESPN 2",
                 "link": "https://tvtvhd.com/canales.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2",
-                "link": "https://stream-xhd.com/live1.php?stream=espn2"
             },
             {
                 "nombre": "ESPN 2 | OP2",
@@ -699,19 +894,93 @@
         ]
     },
     {
+        "title": "ESPN Knockout: Oscar Collazo vs Joey Canoy",
+        "fecha": "2026-06-20",
+        "time": "20:00",
+        "category": "UFC/MMA",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "link": "https://stream-xhd.com/live1.php?stream=espn2"
+            }
+        ]
+    },
+    {
+        "title": "Copa Del Mundo 2026: Túnez vs Japón",
+        "fecha": "2026-06-20",
+        "time": "23:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "CazéTV BR",
+                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
+            },
+            {
+                "nombre": "Chilevision",
+                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD | Espanish",
+                "link": "https://stream-xhd.com/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Fox Sports 1 USA | English",
+                "link": "https://stream-xhd.com/channel3/?id=fs1usa"
+            },
+            {
+                "nombre": "Fox Sports 1 USA | English",
+                "link": "https://stream-xhd.com/live1.php?stream=fs1usa"
+            },
+            {
+                "nombre": "Sportv BR",
+                "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            },
+            {
+                "nombre": "Sportv BR | Portugues",
+                "link": "https://stream-xhd.com/channel3/?id=sportv"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo | Espanish VPN USA",
+                "link": "https://stream-xhd.com/channel2/?id=telemundo"
+            },
+            {
+                "nombre": "Unicanal PY",
+                "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+            },
+            {
+                "nombre": "Vix + Mundial",
+                "link": "https://stream-xhd.com/live1.php?stream=vix1"
+            }
+        ]
+    },
+    {
         "title": "Copa del Mundo: Túnez vs Japón",
         "fecha": "2026-06-20",
         "time": "23:00",
         "category": "Fútbol",
-        "featured": true,
+        "featured": false,
         "canales": [
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://tvtvhd.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://la18hd.com/vivo/canales.php?stream=dsports"
+            },
             {
                 "nombre": "DSports",
                 "link": "https://tvtvhd.com/canales.php?stream=dsports"
-            },
-            {
-                "nombre": "DSports FHD",
-                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
             },
             {
                 "nombre": "DSports | OP2",
@@ -722,36 +991,69 @@
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
             },
             {
-                "nombre": "Telemundo",
-                "link": "https://tvtvhd.com/canales.php?stream=telemundo"
-            },
-            {
                 "nombre": "FOX Sports 1 USA",
                 "link": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa"
+            },
+            {
+                "nombre": "Foxsports1_usa",
+                "link": "https://la18hd.com/vivo/canales.php?stream=foxsports1_usa"
+            },
+            {
+                "nombre": "Sportv",
+                "link": "https://la18hd.com/vivo/canales.php?stream=sportv"
             },
             {
                 "nombre": "Sportv BR",
                 "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
             },
             {
-                "nombre": "Sport TV 1 BR",
-                "link": "https://sudamericaplay2.com/canal_8112/1sportv1.html"
+                "nombre": "Telemundo",
+                "link": "https://la18hd.com/vivo/canales.php?stream=telemundo"
             },
             {
-                "nombre": "CazéTV BR",
-                "link": "https://stream-xhd.com/live1.php?stream=cazetv"
-            },
-            {
-                "nombre": "Vix + Mundial",
-                "link": "https://stream-xhd.com/live1.php?stream=vix1"
+                "nombre": "Telemundo",
+                "link": "https://tvtvhd.com/canales.php?stream=telemundo"
             },
             {
                 "nombre": "Universo",
                 "link": "https://la18hd.com/vivo/canales.php?stream=universo"
             },
             {
-                "nombre": "Chilevision",
-                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+                "nombre": "Universo",
+                "link": "https://tvtvhd.com/canales.php?stream=universo"
+            },
+            {
+                "nombre": "Vtvplus",
+                "link": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
+            }
+        ]
+    },
+    {
+        "title": "Túnez vs Japón",
+        "fecha": "2026-06-20",
+        "time": "23:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "DSPORTS",
+                "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+            },
+            {
+                "nombre": "Fox 1 US FHD",
+                "link": "https://sudamericaplay2.com/canal_8112/fox1usa.html"
+            },
+            {
+                "nombre": "Sport TV 1 BR",
+                "link": "https://sudamericaplay2.com/canal_8112/1sportv1.html"
+            },
+            {
+                "nombre": "TELEMUNDOUSA",
+                "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
             }
         ]
     }
