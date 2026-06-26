@@ -2,7 +2,7 @@
   {
     "title": "F1 GP Austria – Práctica #1",
     "fecha": "2026-06-26",
-    "time": "04:25",
+    "time": "06:25",
     "category": "F1",
     "featured": true,
     "canales": [
@@ -27,7 +27,7 @@
   {
     "title": "Formula 3: Spielberg - Clasificación",
     "fecha": "2026-06-26",
-    "time": "06:00",
+    "time": "08:00",
     "category": "Otros Deportes",
     "featured": false,
     "canales": [
@@ -40,7 +40,7 @@
   {
     "title": "Formula 2: Spielberg - Clasificación",
     "fecha": "2026-06-26",
-    "time": "06:40",
+    "time": "08:40",
     "category": "Otros Deportes",
     "featured": false,
     "canales": [
@@ -69,7 +69,7 @@
   {
     "title": "Hockey – Pro League Femenino – Argentina vs España",
     "fecha": "2026-06-26",
-    "time": "07:30",
+    "time": "09:30",
     "category": "Otros Deportes",
     "featured": false,
     "canales": [
@@ -94,7 +94,7 @@
   {
     "title": "F1 GP Austria – Práctica #2",
     "fecha": "2026-06-26",
-    "time": "07:55",
+    "time": "09:55",
     "category": "F1",
     "featured": true,
     "canales": [
@@ -119,7 +119,7 @@
   {
     "title": "Formula 1: GP Austria - Práctica #2 (Señales On Board)",
     "fecha": "2026-06-26",
-    "time": "08:00",
+    "time": "10:00",
     "category": "F1",
     "featured": true,
     "canales": [
@@ -156,7 +156,7 @@
   {
     "title": "Hockey – Pro League Masculino – España vs Argentina",
     "fecha": "2026-06-26",
-    "time": "08:30",
+    "time": "10:30",
     "category": "Otros Deportes",
     "featured": false,
     "canales": [
@@ -181,7 +181,7 @@
   {
     "title": "Copa de la Liga: UTC vs FC Cajamarca",
     "fecha": "2026-06-26",
-    "time": "09:00",
+    "time": "11:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -194,7 +194,7 @@
   {
     "title": "Copa de la Liga: Alianza Huánuco vs Minas",
     "fecha": "2026-06-26",
-    "time": "11:15",
+    "time": "13:15",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -207,7 +207,7 @@
   {
     "title": "Copa del Mundo 2026: Noruega vs Francia",
     "fecha": "2026-06-26",
-    "time": "12:00",
+    "time": "14:00",
     "category": "Fútbol",
     "featured": true,
     "canales": [
@@ -392,7 +392,7 @@
   {
     "title": "Copa del Mundo 2026: Senegal vs Iraq",
     "fecha": "2026-06-26",
-    "time": "12:00",
+    "time": "14:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -481,7 +481,7 @@
   {
     "title": "Golf – Travelers Championship – Segunda Vuelta",
     "fecha": "2026-06-26",
-    "time": "12:00",
+    "time": "14:00",
     "category": "Otros Deportes",
     "featured": false,
     "canales": [
@@ -506,7 +506,7 @@
   {
     "title": "Copa de la Liga: Sport Huancayo vs AD Tarma",
     "fecha": "2026-06-26",
-    "time": "13:15",
+    "time": "15:15",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -519,7 +519,7 @@
   {
     "title": "Copa de la Liga: Universitario vs Atlético Grau",
     "fecha": "2026-06-26",
-    "time": "16:00",
+    "time": "18:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -532,7 +532,7 @@
   {
     "title": "ESPN Knockout – LFA 236 – Eduardo Torres vs Aziz Osorbek Uulu",
     "fecha": "2026-06-26",
-    "time": "16:30",
+    "time": "18:30",
     "category": "UFC/MMA",
     "featured": false,
     "canales": [
@@ -546,7 +546,7 @@
       },
       {
         "nombre": "ESPN 2",
-        "link": "https://tvhd2.com/canales.php?stream=espn2"
+        "link": "https://canales.php?stream=espn2"
       },
       {
         "nombre": "ESPN 2 | OP3",
@@ -561,7 +561,7 @@
   {
     "title": "Copa del Mundo 2026: Cabo Verde vs Arabia Saudita",
     "fecha": "2026-06-26",
-    "time": "17:00",
+    "time": "19:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -658,7 +658,7 @@
   {
     "title": "Copa del Mundo 2026: Uruguay vs España",
     "fecha": "2026-06-26",
-    "time": "17:00",
+    "time": "19:00",
     "category": "Fútbol",
     "featured": true,
     "canales": [
@@ -883,7 +883,7 @@
   {
     "title": "Copa del Mundo 2026: Egipto vs Irán",
     "fecha": "2026-06-26",
-    "time": "20:00",
+    "time": "22:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -1004,7 +1004,7 @@
   {
     "title": "Copa del Mundo 2026: Nueva Zelanda vs Bélgica",
     "fecha": "2026-06-26",
-    "time": "20:00",
+    "time": "22:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
