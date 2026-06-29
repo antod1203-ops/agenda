@@ -1,285 +1,194 @@
 [
     {
-        "title": "Hockey – Pro League Femenino – Inglaterra vs Argentina",
-        "fecha": "2026-06-28",
-        "time": "07:30",
-        "category": "Hockey",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 4 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4",
-                "link": "https://tvhd2.com/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-            }
-        ]
-    },
-    {
-        "title": "F1 GP Austria – Carrera",
-        "fecha": "2026-06-28",
-        "time": "08:00",
-        "category": "F1",
+        "title": "Wimbledon: Día #1 | Nava (USA) vs. Buse (PER)",
+        "fecha": "2026-06-29",
+        "time": "05:00",
+        "category": "Tenis",
         "featured": true,
         "canales": [
             {
-                "nombre": "ESPN 2 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-            },
-            {
-                "nombre": "F1",
-                "link": "https://stream-xhd.com/live1.php?stream=daznf1"
-            },
-            {
-                "nombre": "ESPN 2 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-            },
-            {
-                "nombre": "Disney+",
-                "link": "https://stream-xhd.com/live1.php?stream=disney3"
-            },
-            {
-                "nombre": "Fox Sports 1 AR",
-                "link": "https://stream-xhd.com/live1.php?stream=fox1ar"
-            },
-            {
-                "nombre": "FOX1AR",
-                "link": "https://streamtpday1.xyz/global2.php?stream=fox1ar"
-            },
-            {
-                "nombre": "DISNEY1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney1"
-            },
-            {
-                "nombre": "ESPN 2 HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=espn2"
+                "nombre": "Sport TV 2",
+                "link": "https://w4.sportsonlline.click/channels/pt/sporttv2.php"
             },
             {
                 "nombre": "ESPN 2",
-                "link": "https://tvhd2.com/canales.php?stream=espn2"
+                "link": "https://stream-xhd.com/live1.php?stream=espn2"
             }
         ]
     },
     {
-        "title": "Formula 1: GP Austria | Cámara On Board",
-        "fecha": "2026-06-28",
-        "time": "08:00",
-        "category": "F1",
-        "featured": false,
+        "title": "Wimbledon: Día #1 | Trungelliti (ARG) vs. Damm (USA)",
+        "fecha": "2026-06-29",
+        "time": "05:00",
+        "category": "Tenis",
+        "featured": true,
         "canales": [
             {
-                "nombre": "DISNEY4",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney4"
-            },
-            {
-                "nombre": "Disney+",
-                "link": "https://stream-xhd.com/live1.php?stream=disney5"
-            }
-        ]
-    },
-    {
-        "title": "Formula 1: GP Austria | On Board Colapinto",
-        "fecha": "2026-06-28",
-        "time": "08:00",
-        "category": "F1",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "DISNEY2",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney2"
-            },
-            {
-                "nombre": "Disney+",
-                "link": "https://stream-xhd.com/live1.php?stream=disney6"
-            }
-        ]
-    },
-    {
-        "title": "Formula 1: GP Austria | On Board Verstappen",
-        "fecha": "2026-06-28",
-        "time": "08:00",
-        "category": "F1",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://stream-xhd.com/live1.php?stream=disney7"
-            },
-            {
-                "nombre": "DISNEY3",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney3"
-            }
-        ]
-    },
-    {
-        "title": "Formula 1: GP Austria | Race Hub",
-        "fecha": "2026-06-28",
-        "time": "08:00",
-        "category": "F1",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://stream-xhd.com/live1.php?stream=disney4"
-            },
-            {
-                "nombre": "DISNEY5",
-                "link": "https://streamtpday1.xyz/global2.php?stream=disney5"
-            }
-        ]
-    },
-    {
-        "title": "Premier Padel Valladolid – Final Femenina",
-        "fecha": "2026-06-28",
-        "time": "10:00",
-        "category": "Pádel",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 3 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+                "nombre": "Sport TV 3",
+                "link": "https://w4.sportsonlline.click/channels/pt/sporttv3.php"
             },
             {
                 "nombre": "ESPN 3",
-                "link": "https://tvhd2.com/canales.php?stream=espn3"
+                "link": "https://stream-xhd.com/live1.php?stream=espn3"
             }
         ]
     },
     {
-        "title": "Segunda División: River Plate vs La Luz",
-        "fecha": "2026-06-28",
-        "time": "10:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://tvhd2.com/canales.php?stream=disney1"
-            }
-        ]
-    },
-    {
-        "title": "Copa Chile: La Serena vs Cobreloa",
-        "fecha": "2026-06-28",
-        "time": "11:30",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "TNT Sports Premiun CL HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Chile",
-                "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "MAX1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=max1"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL",
-                "link": "https://tvhd2.com/canales.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "title": "Premier Padel Valladolid – Final Masculina",
-        "fecha": "2026-06-28",
-        "time": "11:30",
-        "category": "Pádel",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 3",
-                "link": "https://tvhd2.com/canales.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-            }
-        ]
-    },
-    {
-        "title": "Torneo de Reserva: Boca Juniors vs Atlético Tucumán",
-        "fecha": "2026-06-28",
+        "title": "Copa del Mundo: Brasil vs Japón",
+        "fecha": "2026-06-29",
         "time": "12:00",
         "category": "Fútbol",
-        "featured": false,
+        "featured": true,
         "canales": [
             {
-                "nombre": "TNT Sports | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=tntsports"
+                "nombre": "DSports HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=dsports"
             },
             {
-                "nombre": "TNT Sports",
-                "link": "https://tvhd2.com/canales.php?stream=tntsports"
+                "nombre": "Telemundo",
+                "link": "https://tvhd2.com/canales.php?stream=telemundo"
             },
             {
-                "nombre": "TNT Sports | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=tntsports"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Baltimore Orioles vs. Washington Nationals",
-        "fecha": "2026-06-28",
-        "time": "12:35",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
+                "nombre": "Sportv BR",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+            },
             {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb1"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Toronto Blue Jays vs. Texas Rangers",
-        "fecha": "2026-06-28",
-        "time": "12:37",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
+                "nombre": "La 1 ES Global |",
+                "link": "https://streamhdx.xyz/channel/?id=la1es"
+            },
             {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb2"
-            }
-        ]
-    },
-    {
-        "title": "MLB: New York Mets vs. Philadelphia Phillies",
-        "fecha": "2026-06-28",
-        "time": "12:40",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
+                "nombre": "Sportv BR",
+                "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            },
             {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb3"
+                "nombre": "Dsports Latam |",
+                "link": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Fox One USA Global |",
+                "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 2",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd2.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 7",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd7.php"
+            },
+            {
+                "nombre": "Telemundo HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Chilevision",
+                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 1",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd1.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 4",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd4.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 3",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd3.php"
+            },
+            {
+                "nombre": "Disney +",
+                "link": "https://stream-xhd.com/live1.php?stream=disney1"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 10",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd10.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 9",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd9.php"
+            },
+            {
+                "nombre": "Fox One USA",
+                "link": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            },
+            {
+                "nombre": "Unicanal PY",
+                "link": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+            },
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://tvhd2.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 6",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd6.php"
+            },
+            {
+                "nombre": "Sportv BR HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=sportv"
+            },
+            {
+                "nombre": "Sport TV 5",
+                "link": "https://w4.sportsonlline.click/channels/pt/sporttv5.php"
+            },
+            {
+                "nombre": "DSports | OP2",
+                "link": "https://tvhd2.com/vivo/canal.php?stream=dsports"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://stream-xhd.com/live1.php?stream=evento6"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 11",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd11.php"
+            },
+            {
+                "nombre": "La 1 ES",
+                "link": "https://stream-xhd.com/live1.php?stream=la1es"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 8",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd8.php"
+            },
+            {
+                "nombre": "Brasil Premium 4",
+                "link": "https://w4.sportsonlline.click/channels/bra/br4.php"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://tvhd2.com/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Dsports Global |",
+                "link": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+                "nombre": "Brasil Premium 1",
+                "link": "https://w4.sportsonlline.click/channels/bra/br1.php"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports | OP3",
+                "link": "https://tvhd2.com/vivo/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Telefe",
+                "link": "https://stream-xhd.com/live1.php?stream=telefe"
             }
         ]
     },
     {
-        "title": "Copa de la Liga: Alianza Lima vs Alianza Atlético",
-        "fecha": "2026-06-28",
+        "title": "Copa de la Liga: Melgar vs CD Moquegua",
+        "fecha": "2026-06-29",
         "time": "13:00",
         "category": "Fútbol",
         "featured": false,
@@ -291,249 +200,8 @@
         ]
     },
     {
-        "title": "Copa de la Liga: U. César Vallejo vs Carlos A. Mannucci",
-        "fecha": "2026-06-28",
-        "time": "13:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Bicolor +",
-                "link": "https://stream-xhd.com/live1.php?stream=bicolor2"
-            }
-        ]
-    },
-    {
-        "title": "Golf – Travelers Championship – Última Vuelta",
-        "fecha": "2026-06-28",
-        "time": "13:00",
-        "category": "Golf",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 4",
-                "link": "https://tvhd2.com/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn4"
-            },
-            {
-                "nombre": "ESPN 4 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn4"
-            }
-        ]
-    },
-    {
-        "title": "Segunda División: Cerrito vs Plaza Colonia",
-        "fecha": "2026-06-28",
-        "time": "13:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://tvhd2.com/canales.php?stream=espn"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Milwaukee Brewers vs. Chicago Cubs",
-        "fecha": "2026-06-28",
-        "time": "13:10",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb4"
-            }
-        ]
-    },
-    {
-        "title": "Copa Chile: Unión La Calera vs Santiago Wanderers",
-        "fecha": "2026-06-28",
-        "time": "14:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "TNT Sports Premiun CL",
-                "link": "https://tvhd2.com/canales.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Chile",
-                "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "MAX1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=max1"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "title": "Copa del Mundo 2026: Sudáfrica vs Canadá",
-        "fecha": "2026-06-28",
-        "time": "14:00",
-        "category": "Fútbol",
-        "featured": true,
-        "canales": [
-            {
-                "nombre": "Fox ONE USA Global |",
-                "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
-            },
-            {
-                "nombre": "Dsports Solo Latam |",
-                "link": "https://streamhdx.xyz/channel2/?id=dsports1"
-            },
-            {
-                "nombre": "Telemundo USA",
-                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
-            },
-            {
-                "nombre": "DSports HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=dsports"
-            },
-            {
-                "nombre": "Gen PY",
-                "link": "https://stream-xhd.com/live1.php?stream=genpy"
-            },
-            {
-                "nombre": "DSports | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=dsports"
-            },
-            {
-                "nombre": "TSN 1",
-                "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
-            },
-            {
-                "nombre": "Canal 5 MX",
-                "link": "https://stream-xhd.com/live1.php?stream=canal5mx"
-            },
-            {
-                "nombre": "Caze TV",
-                "link": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
-            },
-            {
-                "nombre": "Telemundo",
-                "link": "https://tvhd2.com/canales.php?stream=telemundo"
-            },
-            {
-                "nombre": "Trece PY",
-                "link": "https://stream-xhd.com/live1.php?stream=trecepy"
-            },
-            {
-                "nombre": "Dsports Global |",
-                "link": "https://streamhdx.xyz/channel/?id=dsports1"
-            },
-            {
-                "nombre": "TV LA 1 ES",
-                "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
-            },
-            {
-                "nombre": "Dsports FHD | Solo LATAM",
-                "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
-            },
-            {
-                "nombre": "Deportes TV. C",
-                "link": "https://tvhd2.com/canales.php?stream=goltv"
-            },
-            {
-                "nombre": "La 1 ES Global |",
-                "link": "https://streamhdx.xyz/channel/?id=la1es"
-            },
-            {
-                "nombre": "TUDN MX",
-                "link": "https://stream-xhd.com/live1.php?stream=tudnmx"
-            },
-            {
-                "nombre": "Trece FHD",
-                "link": "https:///sudamericaplay.sbs/canal_41/trecepy.php"
-            },
-            {
-                "nombre": "VIX1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=vix1"
-            },
-            {
-                "nombre": "Fox ONE USA",
-                "link": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-            },
-            {
-                "nombre": "DSPORTS",
-                "link": "https://streamtpday1.xyz/global2.php?stream=dsports"
-            },
-            {
-                "nombre": "TELEMUNDOUSA",
-                "link": "https://streamtpday1.xyz/global2.php?stream=telemundousa"
-            },
-            {
-                "nombre": "DSports | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=dsports"
-            },
-            {
-                "nombre": "CTV",
-                "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
-            },
-            {
-                "nombre": "DAS DE",
-                "link": "https://sudamericaplay.sbs/canal_8112/das_de.html"
-            },
-            {
-                "nombre": "Fox 1 US",
-                "link": "https://sudamericaplay.sbs/canal_8112/1foxus.html"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Angels vs. Athletics",
-        "fecha": "2026-06-28",
-        "time": "14:15",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Universo",
-                "link": "https://stream-xhd.com/live1.php?stream=universo"
-            }
-        ]
-    },
-    {
-        "title": "MLB: San Francisco Giants vs. Atlanta Braves",
-        "fecha": "2026-06-28",
-        "time": "15:05",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb5"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Los Angeles Dodgers vs. San Diego Padres",
-        "fecha": "2026-06-28",
-        "time": "15:10",
-        "category": "Béisbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "MLB",
-                "link": "https://stream-xhd.com/live1.php?stream=mlb6"
-            }
-        ]
-    },
-    {
-        "title": "Copa de la Liga: Los Chankas vs Santos FC",
-        "fecha": "2026-06-28",
+        "title": "Copa de la Liga: Deportivo Garcilaso vs Binacional",
+        "fecha": "2026-06-29",
         "time": "15:15",
         "category": "Fútbol",
         "featured": false,
@@ -545,67 +213,177 @@
         ]
     },
     {
-        "title": "Segunda División: Oriental vs Deportivo Colonia",
-        "fecha": "2026-06-28",
-        "time": "16:00",
+        "title": "Copa del Mundo: Alemania vs Paraguay",
+        "fecha": "2026-06-29",
+        "time": "15:30",
         "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Disney+",
-                "link": "https://tvhd2.com/canales.php?stream=espn"
-            }
-        ]
-    },
-    {
-        "title": "Copa Chile: Universidad de Chile vs Unión San Felipe",
-        "fecha": "2026-06-28",
-        "time": "16:30",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "TNT Sports Premiun CL OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL",
-                "link": "https://tvhd2.com/canales.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "MAX1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=max1"
-            },
-            {
-                "nombre": "TNT Sports Chile",
-                "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-            },
-            {
-                "nombre": "TNT Sports Premiun CL HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-            }
-        ]
-    },
-    {
-        "title": "Copa de la Liga: Cusco FC vs Cienciano",
-        "fecha": "2026-06-28",
-        "time": "18:00",
-        "category": "Fútbol",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "Bicolor +",
-                "link": "https://stream-xhd.com/live1.php?stream=bicolor"
-            }
-        ]
-    },
-    {
-        "title": "MLB: Boston Red Sox vs. New York Yankees",
-        "fecha": "2026-06-28",
-        "time": "18:00",
-        "category": "Béisbol",
         "featured": true,
         "canales": [
+            {
+                "nombre": "Copa del Mundo Premium 2",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd2.php"
+            },
+            {
+                "nombre": "TYC Sports",
+                "link": "https://tvhd2.com/canales.php?stream=tycsports"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 3",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd3.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 9",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd9.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 8",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd8.php"
+            },
+            {
+                "nombre": "Gen PY",
+                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+            },
+            {
+                "nombre": "Canal 5 MX Global |",
+                "link": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+                "nombre": "TUDN MX",
+                "link": "https://stream-xhd.com/live1.php?stream=tudnmx"
+            },
+            {
+                "nombre": "Fox One USA Global |",
+                "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "TYC Sports HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=tycsports"
+            },
+            {
+                "nombre": "Trece PY",
+                "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 11",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd11.php"
+            },
+            {
+                "nombre": "Chilevision",
+                "link": "https://stream-xhd.com/live1.php?stream=chilevision"
+            },
+            {
+                "nombre": "TyC Sports | OP2",
+                "link": "https://tvhd2.com/vivo/canal.php?stream=tycsports"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 6",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd6.php"
+            },
+            {
+                "nombre": "Telemundo HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Sportv BR",
+                "link": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+            },
+            {
+                "nombre": "Sportv BR",
+                "link": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://tvhd2.com/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Fox One USA",
+                "link": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            },
+            {
+                "nombre": "Dsports Latam |",
+                "link": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://tvhd2.com/canales.php?stream=canal5"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://stream-xhd.com/live1.php?stream=canal5mx"
+            },
+            {
+                "nombre": "TYC Sports | OP3",
+                "link": "https://tvhd2.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 1",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd1.php"
+            },
+            {
+                "nombre": "Brasil Premium 2",
+                "link": "https://w4.sportsonlline.click/channels/bra/br2.php"
+            },
+            {
+                "nombre": "Sportv BR HD",
+                "link": "https://tvtvhd.com/online/canales.php?stream=sportv"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://stream-xhd.com/live1.php?stream=evento6"
+            },
+            {
+                "nombre": "TYC Sports",
+                "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+            },
+            {
+                "nombre": "Sport TV 5",
+                "link": "https://w4.sportsonlline.click/channels/pt/sporttv5.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 7",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd7.php"
+            },
+            {
+                "nombre": "Dsports Global |",
+                "link": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 4",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd4.php"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://tvhd2.com/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+        ]
+    },
+    {
+        "title": "MLB: Cleveland Guardians vs Texas Rangers",
+        "fecha": "2026-06-29",
+        "time": "18:00",
+        "category": "Béisbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 2 | OP2",
+                "link": "https://tvhd2.com/vivo/canal.php?stream=espn2"
+            },
+            {
+                "nombre": "ESPN 2 HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=espn2"
+            },
+            {
+                "nombre": "ESPN 2",
+                "link": "https://stream-xhd.com/live1.php?stream=espn2"
+            },
             {
                 "nombre": "ESPN 2 | OP3",
                 "link": "https://tvhd2.com/vivo/canales.php?stream=espn2"
@@ -613,68 +391,169 @@
             {
                 "nombre": "ESPN 2",
                 "link": "https://tvhd2.com/canales.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn2"
-            },
-            {
-                "nombre": "ESPN 2",
-                "link": "https://stream-xhd.com/live1.php?stream=espn2"
             }
         ]
     },
     {
-        "title": "WNBA: Golden State vs. New York",
-        "fecha": "2026-06-28",
-        "time": "18:00",
-        "category": "Baloncesto",
-        "featured": false,
-        "canales": [
-            {
-                "nombre": "ESPN 3",
-                "link": "https://tvhd2.com/canales.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3 | OP2",
-                "link": "https://tvhd2.com/vivo/canal.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3 | OP3",
-                "link": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-            },
-            {
-                "nombre": "ESPN 3",
-                "link": "https://stream-xhd.com/live1.php?stream=espn3"
-            }
-        ]
-    },
-    {
-        "title": "Copa Chile: Deportes Puerto Montt vs Deportes Concepción",
-        "fecha": "2026-06-28",
-        "time": "19:00",
+        "title": "Copa Chile: Unión Española vs Colo-Colo",
+        "fecha": "2026-06-29",
+        "time": "18:30",
         "category": "Fútbol",
         "featured": false,
         "canales": [
             {
-                "nombre": "TNT Sports Premiun CL",
-                "link": "https://tvhd2.com/canales.php?stream=tntsportschile"
+                "nombre": "TNT Sports Premiun CL HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
             },
             {
                 "nombre": "TNT Sports Premiun CL OP2",
                 "link": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
             },
             {
-                "nombre": "TNT Sports Chile",
-                "link": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+                "nombre": "TNT Sports Premiun CL",
+                "link": "https://tvhd2.com/canales.php?stream=tntsportschile"
+            }
+        ]
+    },
+    {
+        "title": "Copa del Mundo: Países Bajos vs Marruecos",
+        "fecha": "2026-06-29",
+        "time": "20:00",
+        "category": "Fútbol",
+        "featured": true,
+        "canales": [
+            {
+                "nombre": "Copa del Mundo Premium 4",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd4.php"
             },
             {
-                "nombre": "MAX1",
-                "link": "https://streamtpday1.xyz/global2.php?stream=max1"
+                "nombre": "Copa del Mundo Premium 9",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd9.php"
             },
             {
-                "nombre": "TNT Sports Premiun CL HD",
-                "link": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
+                "nombre": "TUDN MX",
+                "link": "https://stream-xhd.com/live1.php?stream=tudnmx"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 2",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd2.php"
+            },
+            {
+                "nombre": "Dsports Global |",
+                "link": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+                "nombre": "Telemundo HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 7",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd7.php"
+            },
+            {
+                "nombre": "Fox One USA",
+                "link": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 1",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd1.php"
+            },
+            {
+                "nombre": "Gen PY",
+                "link": "https://stream-xhd.com/live1.php?stream=genpy"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 6",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd6.php"
+            },
+            {
+                "nombre": "Trece PY",
+                "link": "https://stream-xhd.com/live1.php?stream=trecepy"
+            },
+            {
+                "nombre": "Canal 5 MX Global |",
+                "link": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://stream-xhd.com/live1.php?stream=canal5mx"
+            },
+            {
+                "nombre": "Brasil Premium 2",
+                "link": "https://w4.sportsonlline.click/channels/bra/br2.php"
+            },
+            {
+                "nombre": "Dsports Latam |",
+                "link": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "Sport TV 5",
+                "link": "https://w4.sportsonlline.click/channels/pt/sporttv5.php"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://tvhd2.com/canales.php?stream=canal5"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://tvhd2.com/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 3",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd3.php"
+            },
+            {
+                "nombre": "TYC Sports",
+                "link": "https://stream-xhd.com/live1.php?stream=tycsports"
+            },
+            {
+                "nombre": "Fox One USA Global |",
+                "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://stream-xhd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 8",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd8.php"
+            },
+            {
+                "nombre": "Copa del Mundo Premium 11",
+                "link": "https://w4.sportsonlline.click/channels/hd/hd11.php"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+        ]
+    },
+    {
+        "title": "MLB: Seattle Mariners vs Los Angeles Angels",
+        "fecha": "2026-06-29",
+        "time": "20:30",
+        "category": "Béisbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 5 | HD",
+                "link": "https://tvhd2.com/online/canales.php?stream=espn5"
+            },
+            {
+                "nombre": "ESPN 5",
+                "link": "https://tvhd2.com/canales.php?stream=espn5"
+            },
+            {
+                "nombre": "ESPN 5 | OP3",
+                "link": "https://tvhd2.com/vivo/canales.php?stream=espn5"
+            },
+            {
+                "nombre": "ESPN 5 | OP2",
+                "link": "https://tvhd2.com/vivo/canal.php?stream=espn5"
+            },
+            {
+                "nombre": "ESPN 5",
+                "link": "https://stream-xhd.com/live1.php?stream=espn5"
             }
         ]
     }
