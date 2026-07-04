@@ -217,7 +217,7 @@ class AgendaScraper:
         eventos_crudos = []
         
         endpoints = [
-            {"url": "https://streamtpday1.xyz/wc.json", "parser": self._parse_streamtp},
+            {"url": "https://streamtp.sbs/wc.json", "parser": self._parse_streamtp},
             {"url": "https://la20hd.com/eventos/json/agenda123.json", "parser": self._parse_la18hd},
             {"url": "https://streamhdx.com/eventos.json", "parser": self._parse_streamhdx},
             {"url": "https://pltvhd.com/diaries.json", "parser": self._parse_pltvhd}
