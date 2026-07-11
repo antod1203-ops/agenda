@@ -2,7 +2,7 @@
   {
     "title": "Tour de France 2026 - Etapa 8",
     "fecha": "2026-07-11",
-    "hora": "06:15",
+    "time": "06:15",
     "category": "Ciclismo",
     "featured": true,
     "canales": [
@@ -13,7 +13,7 @@
   {
     "title": "MotoGP - GP de Alemania - Sprint",
     "fecha": "2026-07-11",
-    "hora": "08:00",
+    "time": "08:00",
     "category": "Fórmula 1",
     "featured": true,
     "canales": [
@@ -25,7 +25,7 @@
   {
     "title": "Liga Uruguay: Juventud vs Montevideo City Torque",
     "fecha": "2026-07-11",
-    "hora": "10:00",
+    "time": "10:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -35,7 +35,7 @@
   {
     "title": "Rugby - Nations Championship - Fiji vs Inglaterra",
     "fecha": "2026-07-11",
-    "hora": "10:00",
+    "time": "10:00",
     "category": "Otros",
     "featured": false,
     "canales": [
@@ -45,7 +45,7 @@
   {
     "title": "Golf - Genesis Scottish Open - Tercera Vuelta",
     "fecha": "2026-07-11",
-    "hora": "10:30",
+    "time": "10:30",
     "category": "Golf",
     "featured": false,
     "canales": [
@@ -55,7 +55,7 @@
   {
     "title": "SBK - Prosecco Doc UK - Donington Park - Carrera #1",
     "fecha": "2026-07-11",
-    "hora": "11:25",
+    "time": "11:25",
     "category": "Otros",
     "featured": false,
     "canales": [
@@ -67,7 +67,7 @@
   {
     "title": "Tenis - Wimbledon - Final Femenina",
     "fecha": "2026-07-11",
-    "hora": "10:00",
+    "time": "10:00",
     "category": "Tenis",
     "featured": true,
     "canales": [
@@ -79,7 +79,7 @@
   {
     "title": "Segunda División: River Plate vs Plaza Colonia",
     "fecha": "2026-07-11",
-    "hora": "11:30",
+    "time": "11:30",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -90,7 +90,7 @@
   {
     "title": "Rugby - Nations Cup - Uruguay vs Rumania",
     "fecha": "2026-07-11",
-    "hora": "11:50",
+    "time": "11:50",
     "category": "Otros",
     "featured": false,
     "canales": [
@@ -102,7 +102,7 @@
   {
     "title": "ESPN Knockout: Herbert Matovu vs. Jose Kadima",
     "fecha": "2026-07-11",
-    "hora": "12:00",
+    "time": "12:00",
     "category": "Boxeo",
     "featured": false,
     "canales": [
@@ -112,7 +112,7 @@
   {
     "title": "LigaPro: Manta vs Orense",
     "fecha": "2026-07-11",
-    "hora": "12:00",
+    "time": "12:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -122,7 +122,7 @@
   {
     "title": "Serie A: Manta vs Orense",
     "fecha": "2026-07-11",
-    "hora": "12:00",
+    "time": "12:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -132,7 +132,7 @@
   {
     "title": "WNBA - Minnesota vs New York",
     "fecha": "2026-07-11",
-    "hora": "12:00",
+    "time": "12:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -144,7 +144,7 @@
   {
     "title": "Copa de la Liga: Sport Huancayo vs Los Chankas",
     "fecha": "2026-07-11",
-    "hora": "13:00",
+    "time": "13:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -154,7 +154,7 @@
   {
     "title": "Liga Uruguay: Danubio vs Nacional",
     "fecha": "2026-07-11",
-    "hora": "15:00",
+    "time": "15:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -164,7 +164,7 @@
   {
     "title": "Partido Amistoso Internacional: Benfica vs Flamengo",
     "fecha": "2026-07-11",
-    "hora": "13:30",
+    "time": "13:30",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -176,7 +176,7 @@
   {
     "title": "Rugby - Nations Championship - Los Pumas vs Gales",
     "fecha": "2026-07-11",
-    "hora": "13:30",
+    "time": "13:30",
     "category": "Otros",
     "featured": false,
     "canales": [
@@ -186,7 +186,7 @@
   {
     "title": "Copa Chile: Magallanes vs Audax Italiano",
     "fecha": "2026-07-11",
-    "hora": "14:00",
+    "time": "14:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -199,7 +199,7 @@
   {
     "title": "NBA Summer League: Hornets vs Pelicans",
     "fecha": "2026-07-11",
-    "hora": "15:00",
+    "time": "15:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -209,7 +209,7 @@
   {
     "title": "Primera División: Real Oruro vs Gualberto Villarroel SJ",
     "fecha": "2026-07-11",
-    "hora": "14:00",
+    "time": "14:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -219,7 +219,7 @@
   {
     "title": "LigaPro: Mushuc Runa vs Independiente del Valle",
     "fecha": "2026-07-11",
-    "hora": "14:10",
+    "time": "14:10",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -229,7 +229,7 @@
   {
     "title": "Serie A: Mushuc Runa vs Independiente del Valle",
     "fecha": "2026-07-11",
-    "hora": "14:10",
+    "time": "14:10",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -239,7 +239,7 @@
   {
     "title": "NBA Summer League: Magic vs Heat",
     "fecha": "2026-07-11",
-    "hora": "14:30",
+    "time": "14:30",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -249,7 +249,7 @@
   {
     "title": "MLB: New York Yankees vs. Washington Nationals",
     "fecha": "2026-07-11",
-    "hora": "14:05",
+    "time": "14:05",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -259,7 +259,7 @@
   {
     "title": "MLB: Boston Red Sox vs. New York Mets",
     "fecha": "2026-07-11",
-    "hora": "15:10",
+    "time": "15:10",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -270,7 +270,7 @@
   {
     "title": "Copa de la Liga: Sporting Cristal vs Tacna Heroica",
     "fecha": "2026-07-11",
-    "hora": "15:30",
+    "time": "15:30",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -280,7 +280,7 @@
   {
     "title": "Copa del Mundo - Cuartos de final: Noruega vs Inglaterra",
     "fecha": "2026-07-11",
-    "hora": "16:00",
+    "time": "16:00",
     "category": "Mundial",
     "featured": true,
     "canales": [
@@ -327,7 +327,7 @@
   {
     "title": "Liga Uruguay: Wanderers vs Progreso",
     "fecha": "2026-07-11",
-    "hora": "18:00",
+    "time": "18:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -337,7 +337,7 @@
   {
     "title": "NBA Summer League: Spurs vs Knicks",
     "fecha": "2026-07-11",
-    "hora": "16:00",
+    "time": "16:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -348,7 +348,7 @@
   {
     "title": "Primera División: Wanderers vs Progreso",
     "fecha": "2026-07-11",
-    "hora": "18:00",
+    "time": "18:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -359,7 +359,7 @@
   {
     "title": "UFC 329: Preliminares",
     "fecha": "2026-07-11",
-    "hora": "16:00",
+    "time": "16:00",
     "category": "MMA",
     "featured": false,
     "canales": [
@@ -371,7 +371,7 @@
   {
     "title": "Copa Chile: San Luis vs Universidad Católica",
     "fecha": "2026-07-11",
-    "hora": "16:30",
+    "time": "16:30",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -384,7 +384,7 @@
   {
     "title": "NBA Summer League: 76ers vs Pacers",
     "fecha": "2026-07-11",
-    "hora": "16:30",
+    "time": "16:30",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -394,7 +394,7 @@
   {
     "title": "NBA Summer League - San Antonio Spurs vs New York Knicks",
     "fecha": "2026-07-11",
-    "hora": "16:00",
+    "time": "16:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -406,7 +406,7 @@
   {
     "title": "LigaPro: Guayaquil City vs Delfín",
     "fecha": "2026-07-11",
-    "hora": "18:00",
+    "time": "18:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -416,7 +416,7 @@
   {
     "title": "NBA Summer League: Nets vs Hawks",
     "fecha": "2026-07-11",
-    "hora": "18:00",
+    "time": "18:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -426,7 +426,7 @@
   {
     "title": "Serie A: Guayaquil City vs Delfin",
     "fecha": "2026-07-11",
-    "hora": "18:00",
+    "time": "18:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -436,7 +436,7 @@
   {
     "title": "UFC 329: C. McGregor vs. M. Holloway",
     "fecha": "2026-07-11",
-    "hora": "20:00",
+    "time": "20:00",
     "category": "MMA",
     "featured": true,
     "canales": [
@@ -448,7 +448,7 @@
   {
     "title": "MLB: Houston Astros vs. Texas Rangers",
     "fecha": "2026-07-11",
-    "hora": "18:05",
+    "time": "18:05",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -458,7 +458,7 @@
   {
     "title": "MLB: Atlanta Braves vs. St. Louis Cardinals",
     "fecha": "2026-07-11",
-    "hora": "18:15",
+    "time": "18:15",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -468,7 +468,7 @@
   {
     "title": "NBA Summer League: Timberwolves vs Nuggets",
     "fecha": "2026-07-11",
-    "hora": "18:30",
+    "time": "18:30",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -478,7 +478,7 @@
   {
     "title": "MLB: Toronto Blue Jays vs. San Diego Padres",
     "fecha": "2026-07-11",
-    "hora": "19:40",
+    "time": "19:40",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -488,7 +488,7 @@
   {
     "title": "Amistoso: Universitario vs Millonarios",
     "fecha": "2026-07-11",
-    "hora": "20:00",
+    "time": "20:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
@@ -498,7 +498,7 @@
   {
     "title": "Copa del Mundo - Cuartos de final: Argentina vs Suiza",
     "fecha": "2026-07-11",
-    "hora": "21:00",
+    "time": "21:00",
     "category": "Mundial",
     "featured": true,
     "canales": [
@@ -546,7 +546,7 @@
   {
     "title": "NBA Summer League: Mavericks vs Lakers",
     "fecha": "2026-07-11",
-    "hora": "20:00",
+    "time": "20:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
@@ -556,7 +556,7 @@
   {
     "title": "MLB: Arizona Diamondbacks vs. Los Angeles Dodgers",
     "fecha": "2026-07-11",
-    "hora": "20:10",
+    "time": "20:10",
     "category": "MLB",
     "featured": false,
     "canales": [
@@ -566,7 +566,7 @@
   {
     "title": "NBA Summer League: Raptors vs Rockets",
     "fecha": "2026-07-11",
-    "hora": "20:30",
+    "time": "20:30",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
