@@ -840,55 +840,6 @@
     ]
   },
   {
-    "title": "Mundial: Argentina vs Suiza - Cuartos de Final",
-    "fecha": "2026-07-12",
-    "time": "20:00",
-    "category": "Mundial",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "VIX",
-        "link": "https://sudamericaplay.sbs/canal_8112/vix1.html"
-      },
-      {
-        "nombre": "TYCSPORTS",
-        "link": "https://streamtp.sbs/global1.php?stream=tycsports"
-      },
-      {
-        "nombre": "DSPORTS",
-        "link": "https://streamtp.sbs/global1.php?stream=dsports"
-      },
-      {
-        "nombre": "Dsports",
-        "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-      },
-      {
-        "nombre": "Dsports | Latam",
-        "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
-      },
-      {
-        "nombre": "ITV 1 GB",
-        "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
-      },
-      {
-        "nombre": "M6 FR",
-        "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
-      },
-      {
-        "nombre": "TELEMUNDOUSA",
-        "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
-      },
-      {
-        "nombre": "Caze TV 2",
-        "link": "https://sudamericaplay.sbs/canal_8112/cazetv2.html"
-      },
-      {
-        "nombre": "VIX1",
-        "link": "https://streamtp.sbs/global1.php?stream=vix1"
-      }
-    ]
-  },
-  {
     "title": "NBA Summer League: Mavericks vs Lakers",
     "fecha": "2026-07-12",
     "time": "20:00",
