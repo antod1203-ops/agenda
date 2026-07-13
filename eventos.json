@@ -1,836 +1,314 @@
 [
   {
-    "title": "Ciclismo: Tour de France - Etapa #9",
-    "fecha": "2026-07-12",
-    "time": "06:00",
-    "category": "Ciclismo",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "link": "https://streamx-hd.com/live1.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "title": "MotoGP GP de Alemania: MotoGP Carrera",
-    "fecha": "2026-07-12",
-    "time": "07:00",
-    "category": "Otros",
+    "title": "Torneo de Reserva: Estudiantes Rio Cuarto 2 vs Defensa y Justicia",
+    "fecha": "2026-07-13",
+    "time":: "08:00",
+    "category": "Fútbol",
     "featured": false,
     "canales": [
       {
         "nombre": "ESPN 2",
-        "link": "https://streamx-hd.com/live1.php?stream=espn2"
+        "link": "https://fltvhd.com/online/canal.php?stream=even2"
       }
     ]
   },
   {
-    "title": "Segunda División: Uruguay Montevideo vs Oriental",
-    "fecha": "2026-07-12",
-    "time": "07:00",
-    "category": "Fútbol",
+    "title": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
+    "fecha": "2026-07-13",
+    "time":: "08:50",
+    "category": "Otros Deportes",
     "featured": false,
     "canales": [
       {
-        "nombre": "Disney1",
-        "link": "https://la18hd.su/vivo/canales.php?stream=disney1"
-      },
+        "nombre": "ESPN 2",
+        "link": "https://fltvhd.com/online/canal.php?stream=even2"
+      }
+    ]
+  },
+  {
+    "title": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
+    "fecha": "2026-07-13",
+    "time":: "11:20",
+    "category": "Otros Deportes",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "link": "https://fltvhd.com/online/canal.php?stream=even2"
+      }
+    ]
+  },
+  {
+    "title": "Segunda División: La Luz vs Tacuarembó",
+    "fecha": "2026-07-13",
+    "time":: "13:00",
+    "category": "Fútbol",
+    "featured": false,
+    "canales": [
       {
         "nombre": "Disney+",
         "link": "https://fltvhd.com/canales.php?stream=disney1"
+      },
+      {
+        "nombre": "Disney1",
+        "link": "https://la18hd.su/vivo/canales.php?stream=disney1"
       }
     ]
   },
   {
-    "title": "Golf – Genesis Scottish Open – Última Vuelta",
-    "fecha": "2026-07-12",
-    "time": "08:30",
-    "category": "Golf",
+    "title": "Mundial 2026 - Semifinal: Francia vs España",
+    "fecha": "2026-07-13",
+    "time":: "14:00",
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
+      {
+        "nombre": "Canal 5",
+        "link": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay.sbs/canal_8112/cazetv2.html"
+      },
+      {
+        "nombre": "CTV",
+        "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtp.sbs/global1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports | Latam",
+        "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+      },
+      {
+        "nombre": "Fox ONE",
+        "link": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+      },
+      {
+        "nombre": "ITV 1 GB",
+        "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
+      },
+      {
+        "nombre": "M6 FR",
+        "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TUDN MX",
+        "link": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
+      },
+      {
+        "nombre": "TV LA 1 ES",
+        "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+      },
+      {
+        "nombre": "VIX1",
+        "link": "https://streamtp.sbs/global1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "title": "Mundial 2026 - Semifinal: Inglaterra vs Argentina",
+    "fecha": "2026-07-13",
+    "time":: "14:00",
+    "category": "Fútbol",
+    "featured": true,
+    "canales": [
+      {
+        "nombre": "Canal 5",
+        "link": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+      },
+      {
+        "nombre": "Caze TV",
+        "link": "https://sudamericaplay.sbs/canal_8112/cazetv2.html"
+      },
+      {
+        "nombre": "CTV",
+        "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+      },
+      {
+        "nombre": "DISNEY1",
+        "link": "https://streamtp.sbs/global1.php?stream=disney1"
+      },
+      {
+        "nombre": "Dsports",
+        "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+      },
+      {
+        "nombre": "DSPORTS",
+        "link": "https://streamtp.sbs/global1.php?stream=dsports"
+      },
+      {
+        "nombre": "Dsports | Latam",
+        "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+      },
+      {
+        "nombre": "Fox ONE",
+        "link": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+      },
+      {
+        "nombre": "ITV 1 GB",
+        "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
+      },
+      {
+        "nombre": "M6 FR",
+        "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
+      },
+      {
+        "nombre": "TELEMUNDOUSA",
+        "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
+      },
+      {
+        "nombre": "TSN 1",
+        "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+      },
+      {
+        "nombre": "TUDN MX",
+        "link": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
+      },
+      {
+        "nombre": "TV LA 1 ES",
+        "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+      },
+      {
+        "nombre": "TYCSPORTS",
+        "link": "https://streamtp.sbs/global1.php?stream=tycsports"
+      },
+      {
+        "nombre": "VIX1",
+        "link": "https://streamtp.sbs/global1.php?stream=vix1"
+      }
+    ]
+  },
+  {
+    "title": "NBA Summer League: New York Knicks vs Detroit Pistons",
+    "fecha": "2026-07-13",
+    "time":: "15:00",
+    "category": "Baloncesto",
     "featured": false,
     "canales": [
       {
-        "nombre": "ESPN 4",
-        "link": "https://fltvhd.com/online/canal.php?stream=even4"
+        "nombre": "Prime Video",
+        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
       }
     ]
   },
   {
-    "title": "Primera División: Liverpool vs Cerro",
-    "fecha": "2026-07-12",
-    "time": "10:00",
+    "title": "NBA Summer League: Indiana Pacers vs Toronto Raptors",
+    "fecha": "2026-07-13",
+    "time":: "15:30",
+    "category": "Baloncesto",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "link": "https://streamx-hd.com/live1.php?stream=espn3"
+      },
+      {
+        "nombre": "ESPN 3 MX",
+        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "title": "NBA Summer League: Boston Celtics vs Atlanta Hawks",
+    "fecha": "2026-07-13",
+    "time":: "17:00",
+    "category": "Baloncesto",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "title": "Primera División Uruguay: Cerro Largo vs Defensor Sporting",
+    "fecha": "2026-07-13",
+    "time":: "17:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
       {
-        "nombre": "Disney2",
-        "link": "https://la18hd.su/vivo/canales.php?stream=disney2"
+        "nombre": "Disney+",
+        "link": "https://streamx-hd.com/live1.php?stream=disney1"
       },
       {
         "nombre": "Disney+",
         "link": "https://fltvhd.com/canales.php?stream=disney2"
       },
       {
-        "nombre": "Disney+",
-        "link": "https://streamx-hd.com/live1.php?stream=disney1"
+        "nombre": "Disney2",
+        "link": "https://la18hd.su/vivo/canales.php?stream=disney2"
       }
     ]
   },
   {
-    "title": "Segunda División: Atenas vs Rentistas",
-    "fecha": "2026-07-12",
-    "time": "10:00",
+    "title": "Segunda División Uruguay: Paysandú vs Fénix",
+    "fecha": "2026-07-13",
+    "time":: "17:00",
     "category": "Fútbol",
     "featured": false,
     "canales": [
-      {
-        "nombre": "Disney3",
-        "link": "https://la18hd.su/vivo/canales.php?stream=disney3"
-      },
       {
         "nombre": "Disney+",
         "link": "https://fltvhd.com/canales.php?stream=disney3"
+      },
+      {
+        "nombre": "Disney3",
+        "link": "https://la18hd.su/vivo/canales.php?stream=disney3"
       }
     ]
   },
   {
-    "title": "Wimbledon: Jannik Sinner vs. Alexander Zverev - Final Masculina",
-    "fecha": "2026-07-12",
-    "time": "10:00",
-    "category": "Tenis",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "ESPN 2 HD",
-        "link": "https://fltvhd.com/online/canal.php?stream=even2"
-      },
-      {
-        "nombre": "ESPN 2",
-        "link": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN 2",
-        "link": "https://fltvhd.com/online/canal.php?stream=even2"
-      }
-    ]
-  },
-  {
-    "title": "MLB Future Games",
-    "fecha": "2026-07-12",
-    "time": "11:00",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ESPN 7 | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=espn7"
-      },
-      {
-        "nombre": "ESPN 7",
-        "link": "https://fltvhd.com/canales.php?stream=espn7"
-      },
-      {
-        "nombre": "ESPN 7 | OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=espn7"
-      }
-    ]
-  },
-  {
-    "title": "Copa Chile: Cobreloa vs La Serena",
-    "fecha": "2026-07-12",
-    "time": "11:30",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Chile",
-        "link": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "link": "https://fltvhd.com/canales.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "title": "LigaPro: LDU Quito vs Libertad",
-    "fecha": "2026-07-12",
-    "time": "12:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Zapping EC",
-        "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      },
-      {
-        "nombre": "ECDF LigaPro",
-        "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ]
-  },
-  {
-    "title": "MLB: New York Yankees vs. Washington Nationals",
-    "fecha": "2026-07-12",
-    "time": "12:35",
-    "category": "MLB",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "link": "https://streamx-hd.com/live1.php?stream=mlb1"
-      }
-    ]
-  },
-  {
-    "title": "MLB: Boston Red Sox vs. New York Mets",
-    "fecha": "2026-07-12",
-    "time": "12:40",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "link": "https://streamx-hd.com/live1.php?stream=mlb2"
-      }
-    ]
-  },
-  {
-    "title": "Amistoso Internacional: Pumas UNAM vs América de Cali",
-    "fecha": "2026-07-12",
-    "time": "13:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Win Sports + | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus"
-      },
-      {
-        "nombre": "Winsports2",
-        "link": "https://la18hd.su/vivo/canales.php?stream=winsports2"
-      },
-      {
-        "nombre": "Win Sports HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "Win Sports +",
-        "link": "https://fltvhd.com/canales.php?stream=winsportsplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "link": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "America TV | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=americatv"
-      },
-      {
-        "nombre": "TUDN USA | OP3",
-        "link": "https://tvhd2.com/vivo/canales.php?stream=tudn"
-      },
-      {
-        "nombre": "Vix 1",
-        "link": "https://streamx-hd.com/live1.php?stream=vix1"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "America Television",
-        "link": "https://fltvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "nombre": "Win Sports | OP2",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "TUDN MX",
-        "link": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "TUDN USA",
-        "link": "https://fltvhd.com/canales.php?stream=tudn"
-      },
-      {
-        "nombre": "Winsports",
-        "link": "https://la18hd.su/vivo/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "TUDN USA | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=tudn"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus"
-      },
-      {
-        "nombre": "Win Sports",
-        "link": "https://fltvhd.com/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "Winsportsplus",
-        "link": "https://la18hd.su/vivo/canales.php?stream=winsportsplus"
-      }
-    ]
-  },
-  {
-    "title": "Copa de la Liga: CD Moquegua vs Deportivo Garcilaso",
-    "fecha": "2026-07-12",
-    "time": "13:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "link": "https://streamx-hd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "title": "Primera División: Boston River vs Central Español",
-    "fecha": "2026-07-12",
-    "time": "13:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "link": "https://streamx-hd.com/live1.php?stream=disney2"
-      },
-      {
-        "nombre": "Disney4",
-        "link": "https://la18hd.su/vivo/canales.php?stream=disney4"
-      },
-      {
-        "nombre": "Disney+",
-        "link": "https://fltvhd.com/canales.php?stream=disney4"
-      }
-    ]
-  },
-  {
-    "title": "Segunda División: Cerrito vs Miramar Misiones",
-    "fecha": "2026-07-12",
-    "time": "13:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Disney5",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney5"
-      },
-      {
-        "nombre": "Disney+",
-        "link": "https://fltvhd.com/canales.php?stream=disney5"
-      }
-    ]
-  },
-  {
-    "title": "MLB: Atlanta Braves vs. St. Louis Cardinals",
-    "fecha": "2026-07-12",
-    "time": "13:15",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "link": "https://streamx-hd.com/live1.php?stream=mlb3"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Magic vs Heat",
-    "fecha": "2026-07-12",
-    "time": "13:30",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "title": "MLB: Houston Astros vs. Texas Rangers",
-    "fecha": "2026-07-12",
-    "time": "13:35",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "link": "https://streamx-hd.com/live1.php?stream=mlb4"
-      }
-    ]
-  },
-  {
-    "title": "Amistoso Internacional: Cascavel vs Corinthians",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Sportv BR HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Sportv",
-        "link": "https://la20hd.com/vivo/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "Premiere 2 BR",
-        "link": "https://fltvhd.com/canales.php?stream=premiere2"
-      },
-      {
-        "nombre": "Sportv BR",
-        "link": "https://fltvhd.com/canales.php?stream=sportv"
-      },
-      {
-        "nombre": "SporTV BR 1",
-        "link": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-      },
-      {
-        "nombre": "Premiere2",
-        "link": "https://la18hd.su/vivo/canales.php?stream=premiere2"
-      }
-    ]
-  },
-  {
-    "title": "Amistoso Internacional: Fluminense vs Bahia",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "link": "https://fltvhd.com/canales.php?stream=premiere1"
-      },
-      {
-        "nombre": "SporTV BR 2",
-        "link": "https://streamx-hd.com/live1.php?stream=sporttvbr2"
-      },
-      {
-        "nombre": "Premiere1",
-        "link": "https://la18hd.su/vivo/canales.php?stream=premiere1"
-      },
-      {
-        "nombre": "Sportv2",
-        "link": "https://la20hd.com/vivo/canales.php?stream=sportv2"
-      },
-      {
-        "nombre": "Sportv 2 BR",
-        "link": "https://fltvhd.com/canales.php?stream=sportv2"
-      },
-      {
-        "nombre": "Premiere 1",
-        "link": "https://streamx-hd.com/live1.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "title": "Conor McGregor vs. Max Holloway",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "MMA",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "PARAMOUNT4",
-        "link": "https://streamtp.sbs/global1.php?stream=paramount4"
-      },
-      {
-        "nombre": "Paramount+ | Multicam",
-        "link": "https://sudamericaplay.sbs/ufc/multicam1.php"
-      },
-      {
-        "nombre": "PARAMOUNT3",
-        "link": "https://streamtp.sbs/global1.php?stream=paramount3"
-      },
-      {
-        "nombre": "Paramount+ | Español",
-        "link": "https://sudamericaplay.sbs/ufc/player_espa1.php"
-      },
-      {
-        "nombre": "PARAMOUNT1",
-        "link": "https://streamtp.sbs/global1.php?stream=paramount1"
-      },
-      {
-        "nombre": "PARAMOUNT2",
-        "link": "https://streamtp.sbs/global1.php?stream=paramount2"
-      },
-      {
-        "nombre": "Paramount+ | Portugues",
-        "link": "https://sudamericaplay.sbs/ufc/player_portugues.php"
-      }
-    ]
-  },
-  {
-    "title": "Copa de la Liga: Coquimbo Unido vs Unión La Calera",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Tntsportschile",
-        "link": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Pelicans vs Suns",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ESPN 5 | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=espn5"
-      },
-      {
-        "nombre": "ESPN 5",
-        "link": "https://fltvhd.com/canales.php?stream=espn5"
-      },
-      {
-        "nombre": "ESPN 3 MX",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=espn5"
-      },
-      {
-        "nombre": "ESPN 5",
-        "link": "https://streamx-hd.com/live1.php?stream=espn5"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=espn5"
-      }
-    ]
-  },
-  {
-    "title": "Primera División: Real Potosí vs Nacional Potosí",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "link": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ]
-  },
-  {
-    "title": "Serie B: São Bernardo vs Cuiabá",
-    "fecha": "2026-07-12",
-    "time": "14:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "link": "https://fltvhd.com/canales.php?stream=premiere1"
-      }
-    ]
-  },
-  {
-    "title": "Copa Argentina: Independiente Rivadavia vs Tigre",
-    "fecha": "2026-07-12",
-    "time": "14:15",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "TYC Sports | OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=tycsports"
-      },
-      {
-        "nombre": "Tycsports",
-        "link": "https://la20hd.com/vivo/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "TYC Sports",
-        "link": "https://fltvhd.com/canales.php?stream=tycsports"
-      },
-      {
-        "nombre": "TyC Sports",
-        "link": "https://streamx-hd.com/live1.php?stream=tycsports"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=tycsports"
-      }
-    ]
-  },
-  {
-    "title": "LigaPro: Deportivo Cuenca vs Aucas",
-    "fecha": "2026-07-12",
-    "time": "14:15",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      },
-      {
-        "nombre": "Zapping EC",
-        "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "title": "MLB: Los Angeles Dodgers vs. Arizona Diamondbacks",
-    "fecha": "2026-07-12",
-    "time": "15:00",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "link": "https://fltvhd.com/online/canal.php?stream=even3"
-      },
-      {
-        "nombre": "ESPN 3",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "title": "MLB: Toronto Blue Jays vs. San Diego Padres",
-    "fecha": "2026-07-12",
-    "time": "15:10",
-    "category": "MLB",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "MLB",
-        "link": "https://streamx-hd.com/live1.php?stream=mlb5"
-      }
-    ]
-  },
-  {
-    "title": "Amistoso: Alianza Lima vs Deportivo Cali",
-    "fecha": "2026-07-12",
-    "time": "15:30",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "América TV",
-        "link": "https://streamx-hd.com/live1.php?stream=americatv"
-      }
-    ]
-  },
-  {
-    "title": "Copa de la Liga: UTC Cajamarca vs ADA Jaén",
-    "fecha": "2026-07-12",
-    "time": "15:30",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Bicolor+",
-        "link": "https://streamx-hd.com/live1.php?stream=bicolor"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: 76ers vs Pacers",
-    "fecha": "2026-07-12",
-    "time": "15:30",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Spurs vs Knicks",
-    "fecha": "2026-07-12",
-    "time": "16:00",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "title": "Primera División: The Strongest vs Bolívar",
-    "fecha": "2026-07-12",
-    "time": "16:15",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "link": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ]
-  },
-  {
-    "title": "Copa Chile: Deportes Concepción vs Puerto Montt",
-    "fecha": "2026-07-12",
-    "time": "16:30",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "link": "https://fltvhd.com/canales.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Chile",
-        "link": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "title": "Primera División: Racing vs Peñarol",
-    "fecha": "2026-07-12",
-    "time": "16:30",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Disney6",
-        "link": "https://la18hd.com/vivo/canales.php?stream=disney6"
-      },
-      {
-        "nombre": "Disney+",
-        "link": "https://streamx-hd.com/live1.php?stream=disney3"
-      },
-      {
-        "nombre": "Disney+",
-        "link": "https://fltvhd.com/canales.php?stream=espn"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Timberwolves vs Nuggets",
-    "fecha": "2026-07-12",
-    "time": "17:30",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Nets vs Hawks",
-    "fecha": "2026-07-12",
-    "time": "18:00",
-    "category": "NBA",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
-      }
-    ]
-  },
-  {
-    "title": "WNBA: Dallas vs. Chicago",
-    "fecha": "2026-07-12",
-    "time": "18:00",
+    "title": "NBA Summer League: Memphis Grizzlies vs Dallas Mavericks",
+    "fecha": "2026-07-13",
+    "time":: "18:00",
     "category": "Baloncesto",
     "featured": false,
     "canales": [
       {
-        "nombre": "ESPN 2",
-        "link": "https://streamx-hd.com/live1.php?stream=espn2"
+        "nombre": "ESPN 3",
+        "link": "https://streamx-hd.com/live1.php?stream=espn3"
       },
       {
-        "nombre": "ESPN 2",
-        "link": "https://fltvhd.com/online/canal.php?stream=even2"
+        "nombre": "ESPN 3 MX",
+        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
       }
     ]
   },
   {
-    "title": "LigaPro: Emelec vs Barcelona",
-    "fecha": "2026-07-12",
-    "time": "18:10",
-    "category": "Fútbol",
-    "featured": true,
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      },
-      {
-        "nombre": "Zapping EC",
-        "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      }
-    ]
-  },
-  {
-    "title": "Primera División: Real Tomayapo vs Independiente Petrolero",
-    "fecha": "2026-07-12",
-    "time": "18:30",
+    "title": "Serie B Brasil: Ceará vs Athletic Club",
+    "fecha": "2026-07-13",
+    "time":: "18:30",
     "category": "Fútbol",
     "featured": false,
     "canales": [
       {
-        "nombre": "Entel TV PLUS+",
-        "link": "https://fltvhd.com/online/canales.php?stream=even1"
+        "nombre": "Disney+",
+        "link": "https://streamx-hd.com/live1.php?stream=disney3"
       }
     ]
   },
   {
-    "title": "Copa de la Liga: O'Higgins vs Ñublense",
-    "fecha": "2026-07-12",
-    "time": "19:00",
-    "category": "Fútbol",
-    "featured": false,
-    "canales": [
-      {
-        "nombre": "Tntsportschile",
-        "link": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
-      }
-    ]
-  },
-  {
-    "title": "NBA Summer League: Raptors vs Rockets",
-    "fecha": "2026-07-12",
-    "time": "19:30",
-    "category": "NBA",
+    "title": "NBA Summer League: Cleveland Cavaliers vs Miami Heat",
+    "fecha": "2026-07-13",
+    "time":: "19:00",
+    "category": "Baloncesto",
     "featured": false,
     "canales": [
       {
@@ -840,10 +318,49 @@
     ]
   },
   {
-    "title": "NBA Summer League: Mavericks vs Lakers",
-    "fecha": "2026-07-12",
-    "time": "20:00",
-    "category": "NBA",
+    "title": "NBA Summer League: Utah Jazz vs Chicago Bulls",
+    "fecha": "2026-07-13",
+    "time":: "20:00",
+    "category": "Baloncesto",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "link": "https://streamx-hd.com/live1.php?stream=espn3mx"
+      }
+    ]
+  },
+  {
+    "title": "WNBA: Phoenix Mercury vs Minnesota Lynx",
+    "fecha": "2026-07-13",
+    "time":: "20:00",
+    "category": "Baloncesto",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "Peacock TV",
+        "link": "https://streamx-hd.com/live1.php?stream=peacock1"
+      }
+    ]
+  },
+  {
+    "title": "NBA Summer League: Milwaukee Bucks vs Phoenix Suns",
+    "fecha": "2026-07-13",
+    "time":: "21:00",
+    "category": "Baloncesto",
+    "featured": false,
+    "canales": [
+      {
+        "nombre": "Prime Video",
+        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+      }
+    ]
+  },
+  {
+    "title": "NBA Summer League: Portland Trail Blazers vs Minnesota Timberwolves",
+    "fecha": "2026-07-13",
+    "time":: "22:00",
+    "category": "Baloncesto",
     "featured": false,
     "canales": [
       {
