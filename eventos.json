@@ -2,7 +2,7 @@
   {
     "nombre": "Tour de France 2026 - Etapa 10",
     "fecha": "2026-07-14",
-    "hora": "06:15",
+    "time":: "06:15",
     "categoria": "Ciclismo",
     "featured": false,
     "transmisiones": [
@@ -19,7 +19,7 @@
   {
     "nombre": "Mundial 2026 - Semifinal: Francia vs España",
     "fecha": "2026-07-14",
-    "hora": "14:00",
+    "time":: "14:00",
     "categoria": "Fútbol",
     "featured": true,
     "transmisiones": [
@@ -308,7 +308,7 @@
   {
     "nombre": "Tennis - ATP World Tour 250: UMAG 2026",
     "fecha": "2026-07-14",
-    "hora": "15:00",
+    "time":: "15:00",
     "categoria": "Tenis",
     "featured": false,
     "transmisiones": [
@@ -321,7 +321,7 @@
   {
     "nombre": "NBA Summer League: Rockets vs 76ers",
     "fecha": "2026-07-14",
-    "hora": "15:00",
+    "time":: "15:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
@@ -334,7 +334,7 @@
   {
     "nombre": "Rosario Central vs San Lorenzo (Reserva)",
     "fecha": "2026-07-14",
-    "hora": "16:00",
+    "time":: "16:00",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -355,7 +355,7 @@
   {
     "nombre": "LigaPro: Macará vs Mushuc Runa",
     "fecha": "2026-07-14",
-    "hora": "16:30",
+    "time":: "16:30",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -372,7 +372,7 @@
   {
     "nombre": "Amistoso Clubes: Sporting CP vs Celtic",
     "fecha": "2026-07-14",
-    "hora": "17:30",
+    "time":: "17:30",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -385,7 +385,7 @@
   {
     "nombre": "Amistoso Clubes: Győri ETO vs Víkingur Reykjavík",
     "fecha": "2026-07-14",
-    "hora": "18:00",
+    "time":: "18:00",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -398,7 +398,7 @@
   {
     "nombre": "NBA Summer League: Nets vs Kings",
     "fecha": "2026-07-14",
-    "hora": "17:00",
+    "time":: "17:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
@@ -411,7 +411,7 @@
   {
     "nombre": "Primera División Bolivia: Real Oruro vs Always Ready",
     "fecha": "2026-07-14",
-    "hora": "17:00",
+    "time":: "17:00",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -424,7 +424,7 @@
   {
     "nombre": "NBA Summer League: Warriors vs Grizzlies",
     "fecha": "2026-07-14",
-    "hora": "18:00",
+    "time":: "18:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
@@ -441,7 +441,7 @@
   {
     "nombre": "LigaPro: Manta vs Delfín",
     "fecha": "2026-07-14",
-    "hora": "19:00",
+    "time":: "19:00",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -458,7 +458,7 @@
   {
     "nombre": "MLB All-Star Game 2026",
     "fecha": "2026-07-14",
-    "hora": "19:00",
+    "time":: "19:00",
     "categoria": "Béisbol",
     "featured": true,
     "transmisiones": [
@@ -475,7 +475,7 @@
   {
     "nombre": "NBA Summer League: Bulls vs Wizards",
     "fecha": "2026-07-14",
-    "hora": "19:00",
+    "time":: "19:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
@@ -488,7 +488,7 @@
   {
     "nombre": "Primera División Bolivia: Blooming vs Gualberto Villarroel",
     "fecha": "2026-07-14",
-    "hora": "19:30",
+    "time":: "19:30",
     "categoria": "Fútbol",
     "featured": false,
     "transmisiones": [
@@ -501,7 +501,7 @@
   {
     "nombre": "NBA Summer League: Thunder vs Nuggets",
     "fecha": "2026-07-14",
-    "hora": "20:00",
+    "time":: "20:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
@@ -518,7 +518,7 @@
   {
     "nombre": "NBA Summer League: Lakers vs Clippers",
     "fecha": "2026-07-14",
-    "hora": "21:00",
+    "time":: "21:00",
     "categoria": "Baloncesto",
     "featured": false,
     "transmisiones": [
