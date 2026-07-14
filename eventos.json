@@ -1,444 +1,579 @@
 [
-  {
-    "nombre": "Tour de France 2026 - Etapa 10",
-    "fecha": "2026-07-14",
-    "hora": "06:15",
-    "categoria": "Ciclismo",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "ESPN 2",
-        "link": "https://streamx-hd.com/live1.php?stream=espn2"
-      },
-      {
-        "nombre": "ESPN 2",
-        "link": "https://fltvhd.com/online/canal.php?stream=even2"
-      }
-    ]
-  },
-  {
-    "nombre": "Mundial 2026 - Semifinal: Francia vs España",
-    "fecha": "2026-07-14",
-    "hora": "14:00",
-    "categoria": "Fútbol",
-    "featured": true,
-    "transmisiones": [
-      {
-        "nombre": "Telemundo USA",
-        "link": "https://streamx-hd.com/live1.php?stream=telemundo"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "link": "https://fltvhd.com/canales.php?stream=canal5"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=dsports"
-      },
-      {
-        "nombre": "Win Sports HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "ITV 1 UK Global |",
-        "link": "https://streamhdx.xyz/channel/?id=itv1uk"
-      },
-      {
-        "nombre": "TV Publica",
-        "link": "https://streamx-hd.com/live1.php?stream=tvpublica"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=caracol"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=telemundo"
-      },
-      {
-        "nombre": "La 1 ES Global |",
-        "link": "https://streamhdx.xyz/channel/?id=la1es"
-      },
-      {
-        "nombre": "Fox ONE USA",
-        "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
-      },
-      {
-        "nombre": "Telemundo",
-        "link": "https://la20hd.com/vivo/canales.php?stream=telemundo"
-      },
-      {
-        "nombre": "Dsports Latam |",
-        "link": "https://streamhdx.xyz/channel2/?id=dsports1"
-      },
-      {
-        "nombre": "Disney+",
-        "link": "https://streamx-hd.com/live1.php?stream=disney1"
-      },
-      {
-        "nombre": "Dsports Global |",
-        "link": "https://streamhdx.xyz/channel/?id=dsports1"
-      },
-      {
-        "nombre": "America TV",
-        "link": "https://streamx-hd.com/live1.php?stream=americatv"
-      },
-      {
-        "nombre": "Win Sports",
-        "link": "https://fltvhd.com/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "Canal 5 MX Global |",
-        "link": "https://streamhdx.xyz/channel/?id=canal5mx"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "link": "https://streamx-hd.com/live1.php?stream=canal5mx"
-      },
-      {
-        "nombre": "Español",
-        "link": "https://la16hd.com/dsportslatam.php"
-      },
-      {
-        "nombre": "Dsports",
-        "link": "https://la20hd.com/vivo/canales.php?stream=dsports"
-      },
-      {
-        "nombre": "America Television",
-        "link": "https://fltvhd.com/canales.php?stream=americatv"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=winsports"
-      },
-      {
-        "nombre": "DSPORTS",
-        "link": "https://streamtp.sbs/global1.php?stream=dsports"
-      },
-      {
-        "nombre": "Dsports | Latam",
-        "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
-      },
-      {
-        "nombre": "CTV",
-        "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
-      },
-      {
-        "nombre": "ITV 1 GB",
-        "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
-      },
-      {
-        "nombre": "M6 FR",
-        "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
-      },
-      {
-        "nombre": "TELEMUNDOUSA",
-        "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
-      },
-      {
-        "nombre": "TSN 1",
-        "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
-      },
-      {
-        "nombre": "TUDN MX",
-        "link": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
-      },
-      {
-        "nombre": "TV LA 1 ES",
-        "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
-      },
-      {
-        "nombre": "ZDF",
-        "link": "https://sudamericaplay.sbs/canal_8112/zdfde.html"
-      },
-      {
-        "nombre": "Caracol TV",
-        "link": "https://fltvhd.com/canales.php?stream=caracol"
-      },
-      {
-        "nombre": "Fox ONE USA",
-        "link": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-      },
-      {
-        "nombre": "Peacock TV",
-        "link": "https://streamx-hd.com/live1.php?stream=peacock1"
-      },
-      {
-        "nombre": "Peacock CAM",
-        "link": "https://streamx-hd.com/live1.php?stream=peacock2"
-      },
-      {
-        "nombre": "Gen PY",
-        "link": "https://streamx-hd.com/live1.php?stream=genpy"
-      },
-      {
-        "nombre": "TUDN MX",
-        "link": "https://streamx-hd.com/live1.php?stream=tudnmx"
-      },
-      {
-        "nombre": "Deportes RCN",
-        "link": "https://streamx-hd.com/live1.php?stream=evento6"
-      },
-      {
-        "nombre": "America TV | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=americatv"
-      },
-      {
-        "nombre": "Telemundo",
-        "link": "https://fltvhd.com/canales.php?stream=telemundo"
-      },
-      {
-        "nombre": "Dsports",
-        "link": "https://streamx-hd.com/live1.php?stream=dsports"
-      },
-      {
-        "nombre": "DSports | HD",
-        "link": "https://fltvhd.com/online/canales.php?stream=dsports"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=dsports"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "link": "https://fltvhd.com/canales.php?stream=goltv"
-      },
-      {
-        "nombre": "Fox ONE",
-        "link": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
-      },
-      {
-        "nombre": "Canal 5",
-        "link": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
-      },
-      {
-        "nombre": "Caze TV",
-        "link": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
-      },
-      {
-        "nombre": "DISNEY1",
-        "link": "https://streamtp.sbs/global1.php?stream=disney1"
-      },
-      {
-        "nombre": "Dsports",
-        "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-      },
-      {
-        "nombre": "Español",
-        "link": "https://la16hd.com/dsportsar.php"
-      },
-      {
-        "nombre": "Win Sports",
-        "link": "https://streamx-hd.com/live1.php?stream=winsports"
-      },
-      {
-        "nombre": "Win Sports | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=winsports"
-      },
-      {
-        "nombre": "Vtvplus",
-        "link": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
-      },
-      {
-        "nombre": "La 1 ES",
-        "link": "https://streamx-hd.com/live1.php?stream=la1es"
-      },
-      {
-        "nombre": "DSports",
-        "link": "https://fltvhd.com/canales.php?stream=dsports"
-      },
-      {
-        "nombre": "TYCSPORTS",
-        "link": "https://streamtp.sbs/global1.php?stream=tycsports"
-      },
-      {
-        "nombre": "VIX1",
-        "link": "https://streamtp.sbs/global1.php?stream=vix1"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Rockets vs 76ers",
-    "fecha": "2026-07-14",
-    "hora": "15:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "nombre": "Rosario Central vs San Lorenzo (Reserva)",
-    "fecha": "2026-07-14",
-    "hora": "16:00",
-    "categoria": "Fútbol",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "TNT Sports | OP2",
-        "link": "https://fltvhd.com/vivo/canal.php?stream=tntsports"
-      },
-      {
-        "nombre": "TNT Sports | OP3",
-        "link": "https://fltvhd.com/vivo/canales.php?stream=tntsports"
-      },
-      {
-        "nombre": "TNT Sports",
-        "link": "https://fltvhd.com/canales.php?stream=tntsports"
-      }
-    ]
-  },
-  {
-    "nombre": "LigaPro: Macará vs Mushuc Runa",
-    "fecha": "2026-07-14",
-    "hora": "16:30",
-    "categoria": "Fútbol",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Zapping EC",
-        "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      },
-      {
-        "nombre": "ECDF LigaPro",
-        "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Nets vs Kings",
-    "fecha": "2026-07-14",
-    "hora": "17:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "nombre": "Primera División Bolivia: Real Oruro vs Always Ready",
-    "fecha": "2026-07-14",
-    "hora": "17:00",
-    "categoria": "Fútbol",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "link": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Warriors vs Grizzlies",
-    "fecha": "2026-07-14",
-    "hora": "18:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "ESPN 3",
-        "link": "https://fltvhd.com/online/canal.php?stream=even3"
-      },
-      {
-        "nombre": "ESPN 3",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "nombre": "LigaPro: Manta vs Delfín",
-    "fecha": "2026-07-14",
-    "hora": "19:00",
-    "categoria": "Fútbol",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Zapping EC",
-        "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
-      },
-      {
-        "nombre": "ECDF LigaPro",
-        "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-      }
-    ]
-  },
-  {
-    "nombre": "MLB All-Star Game 2026",
-    "fecha": "2026-07-14",
-    "hora": "19:00",
-    "categoria": "Béisbol",
-    "featured": true,
-    "transmisiones": [
-      {
-        "nombre": "ESPN 2",
-        "link": "https://fltvhd.com/online/canal.php?stream=even2"
-      },
-      {
-        "nombre": "ESPN 2",
-        "link": "https://streamx-hd.com/live1.php?stream=espn2"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Bulls vs Wizards",
-    "fecha": "2026-07-14",
-    "hora": "19:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  },
-  {
-    "nombre": "Primera División Bolivia: Blooming vs Gualberto Villarroel",
-    "fecha": "2026-07-14",
-    "hora": "19:30",
-    "categoria": "Fútbol",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "link": "https://fltvhd.com/online/canales.php?stream=even1"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Thunder vs Nuggets",
-    "fecha": "2026-07-14",
-    "hora": "20:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "ESPN 3",
-        "link": "https://fltvhd.com/online/canal.php?stream=even3"
-      },
-      {
-        "nombre": "ESPN 3",
-        "link": "https://streamx-hd.com/live1.php?stream=espn3"
-      }
-    ]
-  },
-  {
-    "nombre": "NBA Summer League: Lakers vs Clippers",
-    "fecha": "2026-07-14",
-    "hora": "21:00",
-    "categoria": "Baloncesto",
-    "featured": false,
-    "transmisiones": [
-      {
-        "nombre": "Prime Video",
-        "link": "https://streamx-hd.com/live1.php?stream=amazon1"
-      }
-    ]
-  }
+    {
+        "title": "Ciclismo: Tour de France - Etapa #10",
+        "fecha": "2026-07-14",
+        "time": "06:00",
+        "category": "Ciclismo",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "link": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+        ]
+    },
+    {
+        "title": "Copa Del Mundo: Francia vs España",
+        "fecha": "2026-07-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "America Television",
+                "link": "https://fltvhd.com/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "America TV",
+                "link": "https://streamx-hd.com/live1.php?stream=americatv"
+            },
+            {
+                "nombre": "America TV | HD",
+                "link": "https://fltvhd.com/online/canales.php?stream=americatv"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            },
+            {
+                "nombre": "Canal 5 MX",
+                "link": "https://fltvhd.com/canales.php?stream=canal5"
+            },
+            {
+                "nombre": "Canal 5 MX Global |",
+                "link": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+                "nombre": "Canal 5 MX HD1",
+                "link": "https://tvhd1.com/canales/canal5.php"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://fltvhd.com/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Caracol TV  | HD",
+                "link": "https://fltvhd.com/online/canales.php?stream=caracol"
+            },
+            {
+                "nombre": "Deportes RCN",
+                "link": "https://streamx-hd.com/live1.php?stream=evento6"
+            },
+            {
+                "nombre": "Deportes TV. C",
+                "link": "https://fltvhd.com/canales.php?stream=goltv"
+            },
+            {
+                "nombre": "Disney+",
+                "link": "https://streamx-hd.com/live1.php?stream=disney1"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://streamx-hd.com/live1.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports",
+                "link": "https://fltvhd.com/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports Argentina HD1",
+                "link": "https://tvhd1.com/canales/dsportslatam.php"
+            },
+            {
+                "nombre": "Dsports Global |",
+                "link": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+                "nombre": "Dsports HD1",
+                "link": "https://tvhd1.com/canales/dsportsar.php"
+            },
+            {
+                "nombre": "Dsports Latam |",
+                "link": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+                "nombre": "DSports | HD",
+                "link": "https://fltvhd.com/online/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports | OP2",
+                "link": "https://fltvhd.com/vivo/canal.php?stream=dsports"
+            },
+            {
+                "nombre": "DSports | OP3",
+                "link": "https://fltvhd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Fox ONE USA",
+                "link": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+                "nombre": "Fox ONE USA",
+                "link": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            },
+            {
+                "nombre": "Gen PY",
+                "link": "https://streamx-hd.com/live1.php?stream=genpy"
+            },
+            {
+                "nombre": "ITV 1 UK Global |",
+                "link": "https://streamhdx.xyz/channel/?id=itv1uk"
+            },
+            {
+                "nombre": "La 1 ES",
+                "link": "https://streamx-hd.com/live1.php?stream=la1es"
+            },
+            {
+                "nombre": "La 1 ES Global |",
+                "link": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+                "nombre": "Peacock CAM",
+                "link": "https://streamx-hd.com/live1.php?stream=peacock2"
+            },
+            {
+                "nombre": "Peacock TV",
+                "link": "https://streamx-hd.com/live1.php?stream=peacock1"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://fltvhd.com/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo USA",
+                "link": "https://streamx-hd.com/live1.php?stream=telemundo"
+            },
+            {
+                "nombre": "Telemundo | HD",
+                "link": "https://fltvhd.com/online/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "TUDN MX",
+                "link": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            },
+            {
+                "nombre": "TV Publica",
+                "link": "https://streamx-hd.com/live1.php?stream=tvpublica"
+            },
+            {
+                "nombre": "Win Sports",
+                "link": "https://streamx-hd.com/live1.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports",
+                "link": "https://fltvhd.com/canales.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports HD",
+                "link": "https://fltvhd.com/online/canales.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports | OP2",
+                "link": "https://fltvhd.com/vivo/canal.php?stream=winsports"
+            },
+            {
+                "nombre": "Win Sports ┃OP3",
+                "link": "https://fltvhd.com/vivo/canales.php?stream=winsports"
+            }
+        ]
+    },
+    {
+        "title": "Copa del Mundo: Francia vs España | Semi Final 1",
+        "fecha": "2026-07-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Dsports",
+                "link": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+                "nombre": "Español",
+                "link": "https://la16hd.com/dsportsar.php"
+            },
+            {
+                "nombre": "Español",
+                "link": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+                "nombre": "Telemundo",
+                "link": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+                "nombre": "Vtvplus",
+                "link": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+        ]
+    },
+    {
+        "title": "Francia vs España | *Semi Final 1",
+        "fecha": "2026-07-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Canal 5",
+                "link": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://sudamericaplay.sbs/canal_41/caracoltv1.php"
+            },
+            {
+                "nombre": "Caze TV",
+                "link": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+            },
+            {
+                "nombre": "CTV",
+                "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+            },
+            {
+                "nombre": "DISNEY1",
+                "link": "https://streamtp.sbs/global1.php?stream=disney1"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+            },
+            {
+                "nombre": "DSPORTS",
+                "link": "https://streamtp.sbs/global1.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports | Latam",
+                "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+            },
+            {
+                "nombre": "Fox ONE",
+                "link": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+            },
+            {
+                "nombre": "ITV 1 GB",
+                "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
+            },
+            {
+                "nombre": "M6 FR",
+                "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
+            },
+            {
+                "nombre": "TELEMUNDOUSA",
+                "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
+            },
+            {
+                "nombre": "TSN 1",
+                "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+            },
+            {
+                "nombre": "TUDN MX",
+                "link": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
+            },
+            {
+                "nombre": "TV LA 1 ES",
+                "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+            },
+            {
+                "nombre": "TYCSPORTS",
+                "link": "https://streamtp.sbs/global1.php?stream=tycsports"
+            },
+            {
+                "nombre": "VIX1",
+                "link": "https://streamtp.sbs/global1.php?stream=vix1"
+            },
+            {
+                "nombre": "ZDF",
+                "link": "https://sudamericaplay.sbs/canal_8112/zdfde.html"
+            }
+        ]
+    },
+    {
+        "title": "Inglaterra vs Argentina | *Semi Final 2",
+        "fecha": "2026-07-14",
+        "time": "14:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Canal 5",
+                "link": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+            },
+            {
+                "nombre": "Caracol TV",
+                "link": "https://sudamericaplay.sbs/canal_41/caracoltv1.php"
+            },
+            {
+                "nombre": "Caze TV",
+                "link": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+            },
+            {
+                "nombre": "CTV",
+                "link": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+            },
+            {
+                "nombre": "DISNEY1",
+                "link": "https://streamtp.sbs/global1.php?stream=disney1"
+            },
+            {
+                "nombre": "Dsports",
+                "link": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+            },
+            {
+                "nombre": "DSPORTS",
+                "link": "https://streamtp.sbs/global1.php?stream=dsports"
+            },
+            {
+                "nombre": "Dsports | Latam",
+                "link": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+            },
+            {
+                "nombre": "Fox ONE",
+                "link": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+            },
+            {
+                "nombre": "ITV 1 GB",
+                "link": "https://sudamericaplay.sbs/canal_8112/itv1.html"
+            },
+            {
+                "nombre": "M6 FR",
+                "link": "https://sudamericaplay.sbs/canal_8112/m6.html"
+            },
+            {
+                "nombre": "Telefe",
+                "link": ""
+            },
+            {
+                "nombre": "TELEMUNDOUSA",
+                "link": "https://streamtp.sbs/global1.php?stream=telemundousa"
+            },
+            {
+                "nombre": "TSN 1",
+                "link": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+            },
+            {
+                "nombre": "TUDN MX",
+                "link": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html"
+            },
+            {
+                "nombre": "TV LA 1 ES",
+                "link": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+            },
+            {
+                "nombre": "TYCSPORTS",
+                "link": "https://streamtp.sbs/global1.php?stream=tycsports"
+            },
+            {
+                "nombre": "VIX1",
+                "link": "https://streamtp.sbs/global1.php?stream=vix1"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Rockets vs 76ers",
+        "fecha": "2026-07-14",
+        "time": "15:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Prime Video",
+                "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+        ]
+    },
+    {
+        "title": "LigaPro: Macará vs Mushuc Runa",
+        "fecha": "2026-07-14",
+        "time": "16:30",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Zapping EC",
+                "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+        ]
+    },
+    {
+        "title": "Serie A: Macará vs Mushuc Runa",
+        "fecha": "2026-07-14",
+        "time": "16:30",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Nets vs Kings",
+        "fecha": "2026-07-14",
+        "time": "17:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Prime Video",
+                "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+        ]
+    },
+    {
+        "title": "Primera División: Real Oruro vs Always Ready",
+        "fecha": "2026-07-14",
+        "time": "17:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Entel TV PLUS+",
+                "link": "https://fltvhd.com/online/canales.php?stream=even1"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League – Golden State Warriors vs Memphis Grizzlies",
+        "fecha": "2026-07-14",
+        "time": "18:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "link": "https://fltvhd.com/online/canal.php?stream=even3"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Warriors vs Grizzlies",
+        "fecha": "2026-07-14",
+        "time": "18:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "link": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+        ]
+    },
+    {
+        "title": "LigaPro: Manta vs Delfín",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Zapping EC",
+                "link": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+        ]
+    },
+    {
+        "title": "MLB All-Star Game: National League vs. American League",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Béisbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "link": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+        ]
+    },
+    {
+        "title": "MLB – All Star Game – National League vs American League",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Béisbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 2",
+                "link": "https://fltvhd.com/online/canal.php?stream=even2"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Bulls vs Wizards",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Prime Video",
+                "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+        ]
+    },
+    {
+        "title": "Primera División: Blooming vs Gualberto Villarroel SJ",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Entel TV PLUS+",
+                "link": "https://fltvhd.com/online/canales.php?stream=even1"
+            }
+        ]
+    },
+    {
+        "title": "Serie A: Manta vs Delfin",
+        "fecha": "2026-07-14",
+        "time": "19:00",
+        "category": "Fútbol",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ECDF LigaPro",
+                "link": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League – Oklahoma City Thunder vs Denver Nuggets",
+        "fecha": "2026-07-14",
+        "time": "20:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "link": "https://fltvhd.com/online/canal.php?stream=even3"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Thunder vs Nuggets",
+        "fecha": "2026-07-14",
+        "time": "20:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "ESPN 3",
+                "link": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+        ]
+    },
+    {
+        "title": "NBA Summer League: Lakers vs Clippers",
+        "fecha": "2026-07-14",
+        "time": "21:00",
+        "category": "Baloncesto",
+        "featured": false,
+        "canales": [
+            {
+                "nombre": "Prime Video",
+                "link": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+        ]
+    }
 ]
